@@ -1,0 +1,392 @@
+Especie,Tamanho,Grupo,Altura Media cm,Peso Medio kg,Expectativa Media de Vida anos,Bom para Tutores Iniciantes,Nivel de Sensibilidade,Tolera Ficar Sozinho,Tolera o Frio,Tolera o Calor,Gosta de Familia,Gosta de Criança,Gosta de Cachorros,Gosta de Estranhos,Solta Pelo,Baba Muito,Facil de Arrumar,Saude,Ganho de Peso,Tamanho,Facil de Treinar,Inteligencia,Barulhento,Cacador,Costuma Latir,Wanderlust Potential,Nivel de Energia,Intensidade,Precisa Exercitar,Brincalhao,Imagem
+Basset Fauve de Bretagne,Grande,Cães de Caça,34.29,13.5,14,4,3,3,3,1,5,4,4,3,2,1,4,5,1,2,3,5,3,3,2,1,4,2,4,3,https://www.dogtime.com/assets/uploads/2019/09/Basset-Fauve-de-Bretagne-dog-breed-pictures-cover.jpg
+American English Coonhound,Muito Grande,Cães de Caça,62.23,25.88,11,2,5,2,4,4,5,5,4,5,3,1,5,4,3,3,5,4,3,5,5,5,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23236_american-english-coonhound-460x290.jpg
+American Foxhound,Muito Grande,Cães de Caça,58.42,22.5,12,2,2,1,4,4,4,5,5,4,3,1,5,5,5,3,2,3,3,4,5,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23006_american-foxhound-460x290.jpg
+Beagle,Médio,Cães de Caça,35.56,10.8,12,3,4,1,2,4,5,5,5,5,3,1,4,1,5,2,1,4,3,5,5,5,4,5,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23012_beagle-460x290.jpg
+American Leopard Hound,Muito Grande,Cães de Caça,60.96,24.75,14,4,3,3,4,4,5,4,4,3,2,2,4,4,2,4,4,4,3,4,4,4,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/09/american-leopard-hound-dog-breed-picture-cover.jpg
+Bavarian Mountain Scent Hound,Muito Grande,Cães de Caça,46.99,22.28,12,3,2,2,2,3,5,4,3,2,1,2,3,4,2,3,3,4,2,4,2,2,4,2,4,4,https://www.dogtime.com/assets/uploads/2019/09/Bavarian-Mountain-Scent-Hound-dog-breed-pictures-cover.jpg
+Black and Tan Coonhound,Muito Grande,Cães de Caça,63.5,39.38,11,2,3,2,4,4,5,5,5,5,5,3,4,5,5,3,2,5,1,5,5,5,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23014_black-and-tan-coonhound-460x290.jpg
+Bloodhound,Muito Grande,Cães de Caça,63.5,42.75,13,2,4,2,3,3,5,5,5,5,4,5,1,3,3,4,3,4,5,3,4,5,5,4,5,3,https://www.dogtime.com/assets/uploads/2011/01/file_23016_bloodhound-460x290.jpg
+Bluetick Coonhound,Muito Grande,Cães de Caça,67.31,32.62,11,2,5,2,3,3,5,5,3,3,2,2,5,4,3,3,2,4,3,4,4,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23238_bluetick-coonhound-460x290.jpg
+Drever,Grande,Cães de Caça,35.56,16.88,14,3,2,2,2,3,5,5,4,3,3,2,3,5,3,3,3,4,4,3,4,2,5,3,4,4,https://www.dogtime.com/assets/uploads/2019/11/drever-dog-breed-pictures-cover.jpg
+Carolina Dog,Grande,Cães de Caça,48.26,19.8,14,2,2,1,4,4,2,3,5,2,4,2,4,5,4,3,2,4,2,5,1,3,4,5,4,3,https://www.dogtime.com/assets/uploads/2020/04/carolina-dog-breed-pictures-cover.jpg
+Greyhound,Muito Grande,Cães de Caça,69.85,30.38,14,2,5,1,1,5,5,5,4,5,4,5,5,4,5,4,5,5,4,5,2,5,5,3,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23024_greyhound-460x290.jpg
+Norwegian Elkhound,Muito Grande,Cães de Caça,49.53,21.38,14,4,4,2,5,3,5,4,4,4,5,1,3,4,4,3,2,4,3,4,4,4,5,3,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23032_norwegian-elkhound-460x290.jpg
+Petit Basset Griffon Vendéen,Grande,Cães de Caça,35.56,15.75,14,3,3,3,4,3,5,5,5,5,4,1,2,3,4,2,1,4,3,5,5,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23036_petit-basset-griffon-vendeen-460x290.jpg
+Pharaoh Hound,Muito Grande,Cães de Caça,58.42,22.5,12,4,5,2,1,5,5,5,5,4,2,1,4,5,3,3,3,4,4,5,4,4,2,3,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23038_pharaoh-hound-460x290.jpg
+Pocket Beagle,Pequeno,Cães de Caça,24.13,4.95,10,3,4,2,2,4,5,5,5,4,3,1,5,3,5,2,3,4,4,3,5,5,4,4,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23234_pocket-beagle-460x290.jpg
+Redbone Coonhound,Muito Grande,Cães de Caça,60.96,25.88,11,2,5,2,3,2,5,5,4,3,2,4,5,3,3,3,3,4,4,4,4,5,4,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23248_redbone-coonhound-460x290.jpg
+English Foxhound,Muito Grande,Cães de Caça,66.04,29.25,12,2,3,4,3,3,4,4,5,3,3,1,5,4,2,3,3,3,4,5,4,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23022_english-foxhound-460x290.jpg
+Silken Windhound,Grande,Cães de Caça,38.95,16.88,17,4,4,2,4,4,5,4,3,4,2,2,4,4,2,3,5,4,3,5,1,4,4,2,4,5,https://www.dogtime.com/assets/uploads/2018/07/silken-windhound-dog-breed-pictures-cover-460x260.jpg
+Sloughi,Muito Grande,Cães de Caça,67.31,23.18,14,2,4,3,2,3,5,5,4,3,3,1,5,3,2,4,3,4,3,5,2,3,5,3,5,3,https://www.dogtime.com/assets/uploads/2011/01/file_23260_sloughi-dog-breed-picture-460x290.jpg
+Hamiltonstovare,Muito Grande,Cães de Caça,54.61,25.88,16,2,4,3,3,3,5,4,3,3,1,1,4,4,3,3,3,4,2,5,3,2,5,3,4,4,https://www.dogtime.com/assets/uploads/2019/12/Hamiltonstovare-dog-breed-pictures-cover.jpg
+Harrier,Muito Grande,Cães de Caça,50.8,23.62,11,3,2,3,3,4,4,5,5,5,3,1,5,5,3,3,2,4,3,4,4,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23026_harrier-460x290.jpg
+Afghan Hound,Muito Grande,Cães de Caça,63.5,24.75,11,3,5,2,5,5,5,5,4,2,4,1,1,3,1,4,1,4,3,5,2,5,5,2,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23004_afghan-hound-460x290.jpg
+Irish Wolfhound,Muito Grande,Cães de Caça,85.09,66.38,7,2,3,2,4,2,5,5,5,5,3,1,3,1,3,5,3,4,3,5,1,3,2,2,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23030_irish-wolfhound-460x290.jpg
+Azawakh,Grande,Cães de Caça,63.5,19.8,14,2,3,3,1,5,4,2,3,2,3,1,5,3,3,4,3,3,3,4,1,2,3,2,4,3,https://www.dogtime.com/assets/uploads/2011/01/file_23286_azawakh-460x290.jpg
+Basenji,Médio,Cães de Caça,41.91,10.35,11,4,3,4,1,4,5,5,4,5,1,1,5,2,2,2,1,4,5,5,1,5,5,1,5,2,https://www.dogtime.com/assets/uploads/2011/01/file_23008_basenji-460x290.jpg
+Basset Hound,Muito Grande,Cães de Caça,35.56,25.88,11,4,4,3,2,2,5,5,5,5,4,4,5,1,5,3,2,4,3,5,4,5,2,2,2,2,https://www.dogtime.com/assets/uploads/2011/01/file_23010_basset-hound-460x290.jpg
+Borzoi,Muito Grande,Cães de Caça,73.66,36,11,3,5,1,4,3,4,3,4,4,5,1,4,4,2,5,3,4,3,5,2,4,2,2,2,3,https://www.dogtime.com/assets/uploads/2011/01/file_23018_borzoi-460x290.jpg
+Otterhound,Muito Grande,Cães de Caça,64.77,43.88,11,4,2,5,4,3,5,5,5,4,4,1,2,4,3,4,2,4,3,5,2,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23034_otterhound-460x290.jpg
+Dachshund,Médio,Cães de Caça,21.59,10.8,14,4,4,3,1,3,4,5,3,1,3,1,3,2,5,1,2,4,4,5,5,5,3,3,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23020_dachshund-dog-breed-460x290.jpg
+Plott,Muito Grande,Cães de Caça,59.69,25.88,13,1,4,2,2,4,4,3,5,3,2,1,5,5,3,3,4,3,3,5,1,5,4,4,5,3,https://www.dogtime.com/assets/uploads/2011/01/file_23040_plott-460x290.jpg
+Ibizan Hound,Muito Grande,Cães de Caça,62.23,21.38,12,3,4,2,1,4,5,5,5,4,3,1,5,4,1,3,3,4,3,5,2,5,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23028_ibizan-hound-460x290.jpg
+Rhodesian Ridgeback,Muito Grande,Cães de Caça,64.77,34.88,11,2,4,2,3,3,5,4,4,3,4,1,5,4,3,4,2,4,3,5,1,5,4,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23042_rhodesian-ridgeback-460x290.jpg
+Saluki,Muito Grande,Cães de Caça,64.77,23.62,13,2,5,1,2,3,5,4,4,1,2,1,4,4,1,4,4,4,4,5,1,5,5,2,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23044_saluki-460x290.jpg
+Scottish Deerhound,Muito Grande,Cães de Caça,76.2,41.62,10,1,3,2,4,4,5,4,2,5,5,1,2,3,4,5,2,3,4,5,1,4,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23046_scottish-deerhound-460x290.jpg
+Portuguese Podengo Pequeno,Pequeno,Cães de Caça,25.4,4.95,14,4,3,3,2,3,4,4,4,4,3,1,4,4,2,1,4,3,3,4,4,3,5,3,3,3,https://www.dogtime.com/assets/uploads/2019/09/Portuguese-Podengo-Pequeno-dog-breed-pictures-cover.jpg
+Taiwan Dog,Grande,Cães de Caça,46.99,14.62,12,2,3,2,4,4,4,3,4,2,3,3,4,4,3,3,4,4,3,4,3,4,4,3,4,4,https://www.dogtime.com/assets/uploads/2020/07/taiwan-dog-breed-pictures-cover.jpg
+Transylvanian Hound,Muito Grande,Cães de Caça,54.61,29.7,11,2,2,3,3,3,4,3,3,2,3,3,4,4,3,3,2,4,3,4,3,4,4,4,5,4,https://www.dogtime.com/assets/uploads/2020/07/transylvanian-hound-dog-breed-pictures-cover.jpg
+Treeing Tennessee Brindle,Grande,Cães de Caça,50.8,16.88,11,2,3,2,3,3,4,4,4,3,4,3,5,4,3,3,3,4,3,4,1,1,4,4,5,3,https://www.dogtime.com/assets/uploads/2011/01/file_23280_what-is-a-treeing-tennessee-brindle-dog.jpg
+Treeing Walker Coonhound,Muito Grande,Cães de Caça,59.69,28.12,12,2,5,2,3,3,4,4,3,3,3,2,5,4,3,4,2,4,3,4,5,5,4,4,5,3,https://www.dogtime.com/assets/uploads/2011/01/file_23250_treeing-walker-coonhound-460x290.jpg
+Whippet,Grande,Cães de Caça,50.8,14.85,14,3,5,2,1,4,5,5,4,4,2,1,5,4,1,3,4,4,4,5,1,4,5,2,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23048_whippet-460x290.jpg
+Alaskan Klee Kai,Médio,Cães de Companhia,38.1,5.62,14,2,4,2,5,2,4,3,2,2,4,2,4,4,2,2,4,4,2,5,3,4,4,2,4,4,https://www.dogtime.com/assets/uploads/2017/11/alaskan-klee-kai-breed-pictures-cover-460x260.jpg
+Cirneco dell’Etna,Médio,Cães de Companhia,46.99,9.68,13,3,3,3,3,3,5,5,4,3,2,1,4,5,2,3,3,3,2,4,3,1,4,2,3,4,https://www.dogtime.com/assets/uploads/2019/12/Cirneco-dellEtna-dog-breed-pictures-cover.jpg
+Broholmer,Muito Grande,Cães de Companhia,66.04,54,10,4,3,3,3,3,5,4,3,3,3,2,4,4,3,5,4,4,3,2,3,2,3,3,3,3,https://www.dogtime.com/assets/uploads/2019/09/Broholmer-dog-breed-pictures-cover.jpg
+English Toy Spaniel,Pequeno,Cães de Companhia,26.67,4.95,11,4,4,1,2,2,5,1,4,4,5,2,4,2,3,2,3,3,4,4,3,2,3,3,2,4,https://www.dogtime.com/assets/uploads/2011/01/file_23106_english-toy-spaniel-460x290.jpg
+Eurasier,Muito Grande,Cães de Companhia,55.88,24.98,13,3,2,1,4,3,3,5,4,2,4,3,3,4,2,4,4,4,2,1,2,1,3,2,3,3,https://www.dogtime.com/assets/uploads/2019/08/eurasier-dog-breed-pictures-cover.jpg
+German Spitz,Grande,Cães de Companhia,34.29,11.25,14,2,3,3,3,2,5,4,3,3,4,1,2,4,4,1,2,4,4,5,4,2,5,3,4,4,https://www.dogtime.com/assets/uploads/2019/10/german-spitz-dog-breed-pictures-cover.jpg
+Japanese Spitz,Médio,Cães de Companhia,33.02,6.98,13,4,3,2,4,3,4,5,4,2,3,1,4,3,2,2,4,4,2,2,4,2,3,2,3,4,https://www.dogtime.com/assets/uploads/2018/06/japanese-spitz-dog-breed-pictures-header-460x260.jpg
+Keeshond,Grande,Cães de Companhia,44.45,18,14,4,5,1,5,3,5,5,4,4,5,1,3,3,4,3,4,4,3,3,4,2,4,3,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_23152_keeshond-460x290.jpg
+Pomeranian,Muito Pequeno,Cães de Companhia,24.13,2.25,14,4,4,1,4,2,5,2,2,3,4,1,2,3,4,1,4,4,2,2,5,1,3,2,2,3,https://www.dogtime.com/assets/uploads/2011/01/file_23122_pomeranian-460x290.jpg
+Dalmatian,Muito Grande,Cães de Companhia,54.61,23.18,14,3,4,3,3,4,5,4,4,3,5,1,5,4,4,3,4,4,2,2,2,4,5,4,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23146_dalmatian-460x290.jpg
+Schipperke,Médio,Cães de Companhia,31.75,6.52,14,2,4,3,3,2,4,5,2,2,3,1,5,4,5,1,2,4,3,2,4,5,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23158_schipperke-460x290.jpg
+Affenpinscher,Pequeno,Cães de Companhia,25.4,3.6,13,4,3,1,3,3,5,1,4,3,1,1,3,4,3,1,2,4,4,3,2,2,4,3,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23096_affenpinscher-460x290.jpg
+American Eskimo Dog,Grande,Cães de Companhia,43.18,13.5,14,4,4,2,5,3,5,5,5,4,5,1,3,5,4,2,5,4,3,3,4,3,5,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23134_american-eskimo-dog-460x290.jpg
+Kai Ken,Grande,Cães de Companhia,49.53,15.75,14,2,2,3,4,3,4,4,3,2,4,2,2,4,3,3,3,5,2,5,2,3,5,4,5,3,https://www.dogtime.com/assets/uploads/2020/05/kai-ken-dog-breed-pictures-cover.jpg
+Bichon Frise,Pequeno,Cães de Companhia,25.4,4.28,14,5,5,1,3,4,5,4,4,5,2,1,1,4,4,2,5,4,3,4,2,2,5,3,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_23136_bichon-frise-460x290.jpg
+Bolognese,Pequeno,Cães de Companhia,26.67,4.95,13,3,5,2,2,3,5,5,5,5,1,1,1,5,3,1,5,4,4,5,4,1,3,3,4,3,https://www.dogtime.com/assets/uploads/2011/01/file_23240_bolognese-460x290.jpg
+Boston Cães Terrier,Médio,Cães de Companhia,34.29,7.88,14,4,5,3,3,2,4,5,5,4,2,1,5,4,3,2,4,4,2,2,3,5,4,5,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23138_boston-Cães Terrier-460x290.jpg
+Brussels Griffon,Pequeno,Cães de Companhia,19.05,4.28,14,2,5,1,1,2,5,4,4,3,3,3,3,3,3,1,3,4,3,1,4,5,5,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23098_brussels-griffon-460x290.jpg
+Bulldog,Muito Grande,Cães de Companhia,34.29,20.25,10,4,4,3,1,1,5,4,2,5,3,5,5,4,5,2,3,2,2,2,4,1,2,3,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23140_bulldog-460x290.jpg
+Cavalier King Charles Spaniel,Médio,Cães de Companhia,31.75,6.98,12,5,5,1,3,2,5,5,5,5,3,1,4,4,4,2,4,4,3,3,2,2,3,2,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23100_cavalier-king-charles-spaniel-460x290.jpg
+Chihuahua,Muito Pequeno,Cães de Companhia,19.05,2.02,14,4,5,1,1,2,5,5,2,2,2,1,5,2,3,1,4,4,3,3,3,2,3,2,1,4,https://www.dogtime.com/assets/uploads/2011/01/file_23102_chihuahua-460x290.jpg
+Chinese Crested,Médio,Cães de Companhia,30.48,5.4,12,3,5,1,1,3,4,5,4,4,2,1,2,5,2,2,4,3,4,3,3,1,2,1,2,3,https://www.dogtime.com/assets/uploads/2011/01/file_23104_17524831.jpg
+Coton de Tulear,Pequeno,Cães de Companhia,25.4,4.73,14,4,5,1,3,3,5,5,5,5,1,1,2,5,3,1,3,4,3,1,2,3,3,2,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_23230_coton-de-tulear-460x290.jpg
+French Bulldog,Médio,Cães de Companhia,29.21,9.9,12,5,3,1,2,1,5,4,4,4,3,1,5,2,4,2,4,3,3,2,3,2,3,4,2,5,https://www.dogtime.com/assets/uploads/2011/01/file_23150_french-bulldog-460x290.jpg
+Havanese,Pequeno,Cães de Companhia,24.13,4.5,14,5,4,1,3,4,5,4,5,5,2,1,1,3,4,2,5,4,3,4,2,2,3,2,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_23108_havanese-460x290.jpg
+Italian Greyhound,Pequeno,Cães de Companhia,35.56,4.73,14,5,5,1,1,3,5,5,4,4,2,1,5,3,2,2,3,3,4,5,3,3,4,2,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23110_italian-greyhound-460x290.jpg
+Japanese Chin,Pequeno,Cães de Companhia,24.13,2.92,12,4,3,1,3,2,3,3,3,4,3,1,3,3,3,1,3,3,4,3,3,1,2,1,2,4,https://www.dogtime.com/assets/uploads/2011/01/file_23112_japanese-chin-460x290.jpg
+Lhasa Apso,Médio,Cães de Companhia,25.4,6.08,14,5,5,4,3,2,4,4,3,2,3,1,1,3,3,1,3,4,3,4,4,2,4,3,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_23154_lhasa-apso-460x290.jpg
+Lowchen,Médio,Cães de Companhia,33.02,6.08,14,4,3,1,3,3,5,5,4,4,3,1,3,5,3,1,5,4,3,4,4,5,4,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23156_lowchen-460x290.jpg
+Maltese,Pequeno,Cães de Companhia,22.86,3.15,14,5,4,1,1,3,5,3,4,2,2,1,2,3,3,1,4,4,3,4,4,1,3,3,2,4,https://www.dogtime.com/assets/uploads/2011/01/file_23114_maltese-460x290.jpg
+Miniature Pinscher,Pequeno,Cães de Companhia,27.94,4.28,12,3,5,2,1,3,5,3,2,3,2,1,5,3,5,1,3,3,2,3,5,5,4,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23116_miniature-pinscher-460x290.jpg
+Papillon,Pequeno,Cães de Companhia,24.13,2.92,14,5,3,1,2,4,5,3,4,5,2,1,3,3,3,1,5,4,3,4,2,1,4,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23118_papillon-460x290.jpg
+Pekingese,Pequeno,Cães de Companhia,19.05,4.73,14,4,2,3,4,1,5,2,2,2,4,1,1,2,3,1,3,4,3,5,4,3,2,1,2,3,https://www.dogtime.com/assets/uploads/2011/01/file_23120_pekingese-460x290.jpg
+Shikoku,Muito Grande,Cães de Companhia,49.53,20.25,11,2,3,3,5,4,4,3,2,2,4,1,4,5,4,3,2,4,2,4,2,3,3,3,3,2,https://www.dogtime.com/assets/uploads/2020/06/shikoku-dog-breed-pictures-cover.jpg
+Poodle,Grande,Cães de Companhia,40.64,17.1,14,5,4,1,3,4,5,5,4,4,1,1,1,2,4,4,5,5,4,2,2,3,4,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23200_poodle-460x290.jpg
+Pug,Médio,Cães de Companhia,30.48,7.2,14,5,3,1,2,1,5,4,4,4,5,1,5,1,5,2,3,2,2,3,2,2,3,4,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_23124_pug-460x290.jpg
+Shiba Inu,Médio,Cães de Companhia,38.1,9,14,4,3,5,4,3,4,3,3,3,4,1,4,3,2,2,2,4,4,3,4,4,4,2,3,3,https://www.dogtime.com/assets/uploads/2011/01/file_23160_shiba-inu-460x290.jpg
+Shih Tzu,Médio,Cães de Companhia,24.13,5.62,13,5,3,3,3,1,5,4,4,5,3,1,1,3,4,1,3,4,4,4,2,2,2,3,2,4,https://www.dogtime.com/assets/uploads/2011/01/file_23126_shih-tzu-460x290.jpg
+Thai Ridgeback,Muito Grande,Cães de Companhia,55.88,24.75,12,2,2,2,4,3,3,2,3,3,3,2,4,4,3,3,2,4,2,4,2,4,4,4,4,3,https://www.dogtime.com/assets/uploads/2020/10/Thai-Ridgeback-dog-breed-pictures-cover.jpg
+Silky Cães Terrier,Pequeno,Cães de Companhia,24.13,4.05,14,3,3,3,1,4,4,3,2,3,2,1,4,4,3,1,4,4,2,5,4,3,4,4,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23128_silky-Cães Terrier-460x290.jpg
+Tibetan Spaniel,Médio,Cães de Companhia,25.4,5.4,14,4,5,1,1,2,5,5,4,3,3,1,4,5,3,1,4,4,3,3,4,3,3,3,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23162_tibetan-spaniel-460x290.jpg
+Tibetan Cães Terrier,Médio,Cães de Companhia,38.1,9.9,14,3,4,1,4,4,5,5,4,3,1,1,1,5,3,2,4,4,2,2,4,3,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23164_tibetan-Cães Terrier-460x290.jpg
+Toy Fox Cães Terrier,Muito Pequeno,Cães de Companhia,24.13,2.25,14,3,4,1,2,3,5,4,3,3,4,1,5,5,2,1,3,4,2,5,4,4,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23130_toy-fox-Cães Terrier-460x290.jpg
+Xoloitzcuintli,Grande,Cães de Companhia,52.07,13.5,17,1,5,1,3,3,5,3,2,1,1,1,5,5,3,3,3,5,3,5,5,5,3,3,3,3,https://www.dogtime.com/assets/uploads/2012/02/file_23296_Xoloitzcuintli-dog-breed-460x290.jpg
+Yorkshire Cães Terrier,Muito Pequeno,Cães de Companhia,21.59,2.25,14,4,5,2,2,2,4,2,3,2,2,1,2,4,2,1,3,3,2,2,3,3,5,4,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23132_yorkshire-Cães Terrier-460x290.jpg
+Afador,Muito Grande,Cães de raças misturadas,62.23,28.12,11,1,3,3,4,2,4,2,3,1,4,3,2,3,4,4,1,5,4,4,4,4,4,4,4,3,https://www.dogtime.com/assets/uploads/2019/08/afador-mixed-dog-breed-pictures-cover.jpg
+Affenhuahua,Pequeno,Cães de raças misturadas,22.86,3.6,16,4,4,1,2,3,4,3,2,2,2,1,4,4,5,1,3,3,4,2,4,2,4,3,3,3,https://www.dogtime.com/assets/uploads/2020/02/affenhuahua-mixed-dog-breed-pictures-COVER.jpg
+Akita Chow,Muito Grande,Cães de raças misturadas,60.96,52.42,11,1,4,2,5,2,1,1,1,2,4,3,1,2,4,4,2,4,3,4,2,3,4,4,4,2,https://www.dogtime.com/assets/uploads/2020/04/akita-chow-mixed-dog-breed-pictures-cover.jpg
+Akita Pit,Muito Grande,Cães de raças misturadas,49.53,22.5,11,1,2,4,3,3,4,3,3,2,3,3,4,4,4,4,3,4,3,4,3,1,3,4,3,3,https://www.dogtime.com/assets/uploads/2020/02/akita-pit-mixed-dog-breed-pictures-COVER.jpg
+Akita Shepherd,Muito Grande,Cães de raças misturadas,66.04,43.88,12,3,2,3,4,3,4,3,3,3,4,2,3,3,3,4,4,4,2,3,1,2,3,3,4,3,https://www.dogtime.com/assets/uploads/2020/03/akita-shepherd-mixed-dog-breed-pictures-cover.jpg
+Beabull,Muito Grande,Cães de raças misturadas,35.56,20.25,12,3,4,4,2,2,5,5,4,3,4,3,5,3,4,3,3,3,4,4,4,4,3,4,3,5,https://www.dogtime.com/assets/uploads/2019/12/beabull-mixed-dog-breed-pictures-cover.jpg
+American Pugabull,Muito Grande,Cães de raças misturadas,40.64,21.38,13,3,4,1,2,3,5,4,3,3,3,3,4,2,3,3,3,3,2,4,4,2,4,4,3,5,https://www.dogtime.com/assets/uploads/2019/08/american-pugabull-mixed-dog-breed-pictures-cover.jpg
+Auggie,Grande,Cães de raças misturadas,29.21,11.25,14,3,4,3,4,3,5,5,5,4,4,1,2,3,4,3,5,5,3,3,4,3,5,4,5,5,https://www.dogtime.com/assets/uploads/2019/09/auggie-mixed-dog-breed-pictures-cover.jpg
+Aussiedoodle,Muito Grande,Cães de raças misturadas,31.75,21.38,12,3,3,2,3,3,5,4,4,4,3,4,3,4,4,3,5,5,3,3,2,3,5,4,5,5,https://www.dogtime.com/assets/uploads/2019/07/aussiedoodle-mixed-dog-breed-pictures-cover.jpg
+Aussiepom,Médio,Cães de raças misturadas,35.56,9,14,2,3,2,3,3,4,3,4,4,3,2,2,4,4,3,4,4,4,2,3,2,5,3,4,5,https://www.dogtime.com/assets/uploads/2019/07/aussiepom-mixed-dog-breed-pictures-cover.jpg
+Australian Retriever,Grande,Cães de raças misturadas,53.34,19.12,14,4,3,2,4,4,4,4,3,3,3,2,3,4,4,4,4,4,2,3,2,4,5,3,5,4,https://www.dogtime.com/assets/uploads/2019/10/australian-retriever-mixed-dog-breed-pictures-cover.jpg
+Australian Shepherd Husky,Muito Grande,Cães de raças misturadas,54.61,23.62,14,2,4,1,5,4,5,3,2,2,4,2,3,3,4,4,4,5,3,4,5,5,5,5,5,5,https://www.dogtime.com/assets/uploads/2019/12/australian-shepherd-husky-mixed-dog-breed-pictures-cover.jpg
+Australian Shepherd Lab Mix,Muito Grande,Cães de raças misturadas,59.69,27,14,2,5,4,5,4,4,4,4,4,4,2,4,4,3,4,5,5,4,3,3,5,5,5,5,5,https://www.dogtime.com/assets/uploads/2019/12/australian-shepherd-lab-mixed-dog-breed-pictures-cover.jpg
+Australian Shepherd Pit Bull Mix,Muito Grande,Cães de raças misturadas,50.8,25.88,13,3,3,2,3,3,4,4,3,3,4,2,3,4,5,4,4,4,3,4,2,3,4,3,4,4,https://www.dogtime.com/assets/uploads/2020/01/australian-shepherd-pit-bull-mixed-dog-breed-pictures-cover.jpg
+Boglen Cães Terrier,Grande,Cães de raças misturadas,36.83,11.25,12,4,4,2,2,3,5,5,5,5,2,1,4,3,3,2,2,2,4,4,4,5,4,5,4,5,https://www.dogtime.com/assets/uploads/2019/09/boglen-Cães Terrier-mixed-dog-breed-pictures-cover.jpg
+Bassador,Muito Grande,Cães de raças misturadas,41.91,25.88,11,2,3,3,4,4,3,3,3,3,5,4,3,3,3,4,2,3,2,4,3,3,3,2,4,3,https://www.dogtime.com/assets/uploads/2019/07/bassador-mixed-breed-dog-pictures-cover.jpg
+Bordoodle,Muito Grande,Cães de raças misturadas,43.18,20.25,14,4,3,3,4,4,4,5,3,2,2,2,4,4,3,3,4,5,3,2,2,3,3,2,3,4,https://www.dogtime.com/assets/uploads/2019/09/bordoodle-mixed-dog-breed-pictures-cover.jpg
+Boston Boxer,Grande,Cães de raças misturadas,48.26,17.32,14,3,3,2,3,3,4,4,4,2,3,3,4,4,4,3,3,4,3,3,3,2,4,3,4,5,https://www.dogtime.com/assets/uploads/2020/01/boston-boxer-mixed-dog-breed-pictures-cover.jpg
+Basset Retriever,Muito Grande,Cães de raças misturadas,30.48,24.75,11,3,2,2,4,4,4,4,3,4,2,2,4,4,4,3,4,5,3,5,2,4,4,2,4,4,https://www.dogtime.com/assets/uploads/2019/11/basset-retriever-mixed-dog-breed-pictures-cover.jpg
+Boston Cães Terrier Pekingese Mix,Médio,Cães de raças misturadas,31.75,7.88,12,3,3,2,2,2,4,4,3,3,2,2,4,4,4,1,2,4,3,2,4,2,3,3,3,4,https://www.dogtime.com/assets/uploads/2020/05/Boston-Cães Terrier-Pekingese-Mixed-dog-breed-pictures-cover.jpg
+Bull-Pei,Muito Grande,Cães de raças misturadas,43.18,22.5,10,2,3,3,1,1,3,2,2,2,4,3,4,3,4,3,3,2,4,2,2,1,2,2,2,2,https://www.dogtime.com/assets/uploads/2020/03/bull-pei-mixed-dog-breed-pictures-cover.jpg
+Bernedoodle,Muito Grande,Cães de raças misturadas,49.53,22.5,15,3,4,2,5,3,5,5,4,3,1,2,3,4,3,3,4,5,4,3,3,3,4,3,3,5,https://www.dogtime.com/assets/uploads/2017/10/bernedoodle-dog-breed-pictures-cover-460x260.jpg
+Cav-a-Jack,Médio,Cães de raças misturadas,34.29,6.98,14,4,3,1,3,3,4,4,4,4,2,2,4,3,4,2,4,4,3,4,3,3,4,3,4,5,https://www.dogtime.com/assets/uploads/2019/10/cav-a-jack-mixed-dog-breed-pictures-cover.jpg
+Chabrador,Muito Grande,Cães de raças misturadas,53.34,28.12,11,2,4,3,4,1,4,4,2,2,4,3,4,4,3,3,2,4,4,4,3,3,3,4,3,4,https://www.dogtime.com/assets/uploads/2019/08/chabrador-mixed-dog-breed-pictures-cover.jpg
+Cheagle,Médio,Cães de raças misturadas,29.21,6.52,12,4,4,1,1,2,5,3,3,2,3,1,5,3,4,2,2,4,3,4,4,3,4,4,3,4,https://www.dogtime.com/assets/uploads/2019/07/cheagle-mixed-dog-breed-pictures-cover.jpg
+Border Sheepdog,Grande,Cães de raças misturadas,48.26,15.75,14,3,2,2,4,2,5,4,3,3,3,1,3,4,2,3,4,5,4,3,4,2,5,3,5,4,https://www.dogtime.com/assets/uploads/2019/11/border-sheepdog-mixed-dog-breed-pictures-cover.jpg
+Chi Chi,Pequeno,Cães de raças misturadas,21.59,3.38,16,2,4,2,2,3,3,3,2,3,2,1,4,4,4,2,3,4,3,3,4,2,4,4,3,4,https://www.dogtime.com/assets/uploads/2020/01/chi-chi-mixed-dog-breed-pictures-cover.jpg
+Chilier,Pequeno,Cães de raças misturadas,25.4,4.05,14,2,4,2,2,2,4,4,4,3,2,3,4,4,3,2,2,4,3,3,3,2,4,4,3,4,https://www.dogtime.com/assets/uploads/2019/10/chilier-mixed-dog-breed-pictures-cover.jpg
+Bossie,Grande,Cães de raças misturadas,48.26,14.62,14,2,3,5,3,3,4,4,4,4,2,1,3,3,3,3,4,4,3,3,3,5,4,4,5,5,https://www.dogtime.com/assets/uploads/2019/11/bossie-mixed-dog-breed-pictures-cover.jpg
+Chion,Pequeno,Cães de raças misturadas,20.32,3.38,12,3,3,2,2,3,5,3,3,2,2,2,3,4,4,2,3,3,4,3,4,1,4,3,2,4,https://www.dogtime.com/assets/uploads/2020/01/chion-mixed-dog-breed-pictures-cover.jpg
+Cockalier,Médio,Cães de raças misturadas,34.29,8.55,14,4,4,2,2,2,5,5,4,3,2,1,4,4,3,2,4,4,2,3,2,2,4,2,4,5,https://www.dogtime.com/assets/uploads/2019/10/cockalier-mixed-dog-breed-picture-cover.jpg
+Boxador,Muito Grande,Cães de raças misturadas,60.96,36,14,2,3,1,2,2,5,4,4,4,4,2,5,2,4,4,5,5,3,2,3,3,5,5,5,5,https://www.dogtime.com/assets/uploads/2019/08/boxador-mixed-dog-breed-pictures-cover.jpg
+Boxerdoodle,Grande,Cães de raças misturadas,44.45,18.45,11,3,3,2,3,3,4,3,4,3,2,2,3,3,4,3,4,4,2,3,2,4,4,4,4,5,https://www.dogtime.com/assets/uploads/2019/09/boxerdoodle-mixed-dog-breed-pictures-cover.jpg
+Boxmatian,Muito Grande,Cães de raças misturadas,55.88,31.5,12,2,3,2,2,4,4,3,2,1,3,2,3,5,4,5,3,4,4,3,3,4,5,4,5,4,https://www.dogtime.com/assets/uploads/2019/09/boxmatian-mixed-dog-breed-pictures-cover.jpg
+Boxweiler,Muito Grande,Cães de raças misturadas,60.96,38.25,10,3,4,2,3,2,5,4,4,2,3,2,3,3,4,4,4,4,2,2,3,1,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/12/boxweiler-mixed-dog-breed-pictures-cover.jpg
+Corgi Inu,Médio,Cães de raças misturadas,30.48,9.9,14,3,3,3,4,2,3,3,3,2,5,2,2,3,3,2,4,4,3,3,3,2,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/08/corgi-inu-mixed-dog-breed-pictures-cover.jpg
+Dachsador,Grande,Cães de raças misturadas,50.8,15.75,13,2,3,2,3,3,4,4,3,4,2,1,4,4,4,2,3,4,2,4,2,4,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/09/dachsador-mixed-dog-breed-pictures-cover.jpg
+Dorgi,Médio,Cães de raças misturadas,26.67,9.68,14,4,3,1,4,3,4,4,4,3,2,2,4,4,4,2,3,4,4,3,3,3,4,4,4,5,https://www.dogtime.com/assets/uploads/2019/08/dorgi-mixed-dog-breed-pictures-cover.jpg
+Bullador,Muito Grande,Cães de raças misturadas,46.99,31.5,11,2,4,2,2,2,4,4,4,4,4,4,4,3,5,4,4,4,2,4,4,3,4,4,4,4,https://www.dogtime.com/assets/uploads/2020/02/bullador-mixed-dog-breed-pictures-cover.jpg
+Bullboxer Pit,Muito Grande,Cães de raças misturadas,45.72,29.25,12,2,3,2,2,2,4,4,2,2,4,4,4,4,4,3,2,4,4,5,4,3,5,5,5,4,https://www.dogtime.com/assets/uploads/2019/07/bullboxer-pit-mixed-dog-breed-pictures-cover.jpg
+Bullmatian,Muito Grande,Cães de raças misturadas,44.45,23.85,10,1,3,3,2,2,4,5,4,3,2,3,4,4,4,3,1,4,3,3,2,3,5,4,4,4,https://www.dogtime.com/assets/uploads/2019/07/bullmation-mixed-dog-breed-pictures-cover.jpg
+Catahoula Bulldog,Muito Grande,Cães de raças misturadas,63.5,39.38,12,1,2,3,1,5,4,3,2,1,1,1,5,4,3,4,2,3,4,5,3,3,5,5,5,4,https://www.dogtime.com/assets/uploads/2019/08/catahoula-bulldog-mixed-breed-pictures-cover.jpg
+French Bullhuahua,Médio,Cães de raças misturadas,22.86,9,12,3,3,2,2,4,4,3,2,3,3,2,4,4,5,1,3,3,4,3,4,2,3,3,3,4,https://www.dogtime.com/assets/uploads/2020/03/french-bullhuahua-mixed-dog-breed-pictures-cover.jpg
+Frengle,Médio,Cães de raças misturadas,29.21,10.8,12,4,4,3,2,2,5,5,4,4,3,1,5,4,4,3,3,4,3,3,2,3,4,3,4,5,https://www.dogtime.com/assets/uploads/2020/02/frengle-mixed-dog-breed-pictures-cover.jpg
+Cavador,Grande,Cães de raças misturadas,53.34,17.32,12,5,4,2,3,3,5,5,4,3,3,2,4,4,4,3,4,4,2,3,3,3,4,3,4,5,https://www.dogtime.com/assets/uploads/2019/08/cavador-mixed-dog-breed-pictures-cover.jpg
+Cavapoo,Médio,Cães de raças misturadas,29.21,7.65,14,3,3,2,4,3,5,5,4,4,2,1,3,3,4,2,4,4,3,3,2,3,3,2,3,5,https://www.dogtime.com/assets/uploads/2019/08/cavapoo-mixed-dog-breed-pictures-cover.jpg
+Jack-A-Poo,Médio,Cães de raças misturadas,33.02,8.55,14,4,4,2,4,4,5,5,5,4,2,1,2,3,4,2,4,5,4,4,3,4,5,4,5,5,https://www.dogtime.com/assets/uploads/2020/02/jack-a-poo-mixed-dog-breed-pictures-cover.jpg
+Jack Chi,Médio,Cães de raças misturadas,34.29,5.85,16,2,3,3,2,4,4,5,4,3,2,2,5,4,4,2,2,4,2,4,2,4,4,4,4,5,https://www.dogtime.com/assets/uploads/2019/07/jack-chi-mixed-dog-breed-pictures-cover.jpg
+Jackshund,Médio,Cães de raças misturadas,39.37,9.68,14,2,3,3,3,3,5,4,4,3,3,1,3,3,5,2,3,5,4,5,5,5,4,4,4,5,https://www.dogtime.com/assets/uploads/2020/02/jackshund-mixed-dog-breed-pictures-COVER.jpg
+Chigi,Médio,Cães de raças misturadas,24.13,6.75,13,4,5,2,3,2,5,5,2,2,4,1,5,3,3,1,4,4,2,3,2,3,4,4,4,4,https://www.dogtime.com/assets/uploads/2020/01/chigi-mixed-dog-breed-pictures-cover.jpg
+Lhasapoo,Médio,Cães de raças misturadas,27.94,5.62,12,2,4,2,3,3,4,3,3,1,1,1,3,4,3,3,3,5,2,2,4,2,4,4,3,4,https://www.dogtime.com/assets/uploads/2020/02/lhasapoo-mixed-dog-breed-pictures-cover.jpg
+Chow Shepherd,Muito Grande,Cães de raças misturadas,60.96,30.38,14,2,4,2,5,4,3,3,2,2,5,2,1,3,2,4,3,3,3,3,2,3,5,4,5,4,https://www.dogtime.com/assets/uploads/2020/01/chow-shepherd-mixed-dog-breed-pictures-cover.jpg
+Chusky,Muito Grande,Cães de raças misturadas,52.07,23.62,12,2,3,3,5,2,4,4,3,3,5,2,2,3,3,3,3,4,3,3,4,2,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/08/chusky-mixed-dog-breed-pictures-cover.jpg
+Pomchi,Pequeno,Cães de raças misturadas,20.32,3.6,15,3,3,3,2,4,4,3,3,3,3,1,2,5,4,1,3,4,4,3,4,3,3,4,3,4,https://www.dogtime.com/assets/uploads/2019/08/pomchi-mixed-dog-breed-pictures-cover.jpg
+Pomeagle,Médio,Cães de raças misturadas,21.59,6.75,14,4,4,1,3,2,5,3,3,3,4,1,2,3,4,1,3,2,3,3,5,4,4,3,3,4,https://www.dogtime.com/assets/uploads/2019/08/pomeagle-mixed-dog-breed-pictures-cover.jpg
+Corgidor,Muito Grande,Cães de raças misturadas,44.45,21.38,12,2,4,3,3,3,5,4,3,4,5,2,4,4,4,3,4,5,3,3,2,3,5,3,4,5,https://www.dogtime.com/assets/uploads/2019/07/corgidor-mixed-dog-breed-pictures-cover.jpg
+Corman Shepherd,Muito Grande,Cães de raças misturadas,34.29,20.25,12,2,3,3,4,3,4,4,4,3,5,2,3,3,4,3,4,5,3,3,3,2,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/11/corman-shepherd-mixed-dog-breed-pictures-cover.jpg
+Daniff,Muito Grande,Cães de raças misturadas,76.2,68.62,10,2,3,1,4,3,5,4,4,3,2,4,1,3,3,5,4,4,2,2,1,2,3,4,4,4,https://www.dogtime.com/assets/uploads/2019/11/daniff-mixed-dog-breed-pictures-cover.jpg
+Doberdor,Muito Grande,Cães de raças misturadas,66.04,36,12,1,3,2,2,4,3,3,3,1,1,2,4,4,4,5,1,4,3,4,4,4,5,4,5,4,https://www.dogtime.com/assets/uploads/2019/08/doberdor-mixed-breed-dog-pictures-cover.jpg
+Docker,Grande,Cães de raças misturadas,30.48,11.25,13,2,4,2,3,3,5,3,3,2,3,2,3,3,3,2,3,4,5,5,4,5,3,3,3,4,https://www.dogtime.com/assets/uploads/2019/07/docker-mixed-dog-breed-pictures-cover.jpg
+Rottle,Muito Grande,Cães de raças misturadas,49.53,33.75,12,3,3,3,3,3,5,4,3,3,2,2,4,4,3,3,5,5,3,3,2,2,4,3,4,5,https://www.dogtime.com/assets/uploads/2019/12/rottle-mixed-dog-breed-pictures-cover.jpg
+Doxle,Médio,Cães de raças misturadas,25.4,9.22,13,4,4,1,2,4,5,4,5,4,5,1,4,4,4,2,3,4,3,5,5,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2019/08/doxle-mixed-dog-breed-pictures-cover.jpg
+Sheepadoodle,Muito Grande,Cães de raças misturadas,48.26,31.5,14,4,5,2,4,3,5,5,4,4,1,1,3,4,4,4,3,5,3,1,2,2,4,3,4,5,https://www.dogtime.com/assets/uploads/2020/01/sheepadoodle-mixed-dog-breed-pictures-cover.jpg
+Shiranian,Pequeno,Cães de raças misturadas,24.13,4.5,14,4,4,2,2,1,5,3,3,4,2,2,2,2,3,2,2,4,1,1,2,2,2,3,2,4,https://www.dogtime.com/assets/uploads/2019/09/shiranian-mixed-dog-breed-pictures-cover.jpg
+German Shepherd Pit Bull,Muito Grande,Cães de raças misturadas,54.61,27,11,1,4,1,3,3,5,5,4,4,5,1,5,4,4,4,5,5,5,4,4,3,5,5,5,5,https://www.dogtime.com/assets/uploads/2020/02/german-shepherd-pit-bull-mixed-dog-breed-pictures-COVER.jpg
+German Shepherd Rottweiler Mix,Muito Grande,Cães de raças misturadas,63.5,42.75,11,4,3,3,4,2,4,4,3,3,5,3,3,3,4,4,3,4,3,3,3,2,4,3,4,4,https://www.dogtime.com/assets/uploads/2020/04/german-shepherd-rottweiler-mixed-dog-breed-pictures-cover.jpg
+German Sheprador,Muito Grande,Cães de raças misturadas,59.69,34.88,11,1,5,2,4,4,5,5,4,4,5,2,5,3,3,4,5,5,5,3,2,2,5,5,5,5,https://www.dogtime.com/assets/uploads/2019/09/german-sheprador-mixed-dog-breed-pictures-cover.jpg
+Valley Bulldog,Muito Grande,Cães de raças misturadas,46.99,39.38,10,3,4,2,1,1,5,4,3,4,4,3,5,3,4,4,3,3,2,3,4,1,4,4,4,4,https://www.dogtime.com/assets/uploads/2019/09/valley-bulldog-mixed-dog-breed-pictures-cover.jpg
+Goberian,Muito Grande,Cães de raças misturadas,55.88,30.38,12,2,3,2,5,2,4,4,4,2,2,1,5,4,4,4,2,5,3,4,2,4,5,4,5,4,https://www.dogtime.com/assets/uploads/2019/07/goberian-mixed-dog-breed-pictures-cover.jpg
+Golden Cocker Retriever,Grande,Cães de raças misturadas,55.88,16.88,14,4,4,1,2,4,5,4,4,3,4,1,4,4,4,3,4,4,2,2,3,4,5,2,4,5,https://www.dogtime.com/assets/uploads/2019/10/golden-cocker-retriever-mixed-dog-breed-pictures-cover-1.jpg
+Golden Mountain Dog,Muito Grande,Cães de raças misturadas,66.04,43.88,12,2,2,2,5,1,5,5,4,3,4,4,2,3,4,5,4,4,2,2,3,4,4,2,5,5,https://www.dogtime.com/assets/uploads/2019/10/golden-mountain-dog-mixed-dog-breed-pictures-cover.jpg
+Golden Retriever Corgi,Muito Grande,Cães de raças misturadas,35.56,23.62,12,4,3,3,3,3,5,5,4,4,4,3,3,3,4,3,4,4,3,2,3,2,4,3,3,5,https://www.dogtime.com/assets/uploads/2020/01/golden-retriever-corgi-mixed-dog-breed-pictures-cover.jpg
+Golden Shepherd,Muito Grande,Cães de raças misturadas,58.42,31.5,12,2,5,1,5,4,5,5,3,5,5,2,2,3,3,5,5,5,5,3,3,2,5,3,5,5,https://www.dogtime.com/assets/uploads/2019/11/German-Shepherd-Golden-Retriever-mixed-dog-breed-pictures-cover.jpg
+Gollie,Muito Grande,Cães de raças misturadas,60.96,28.12,14,4,3,2,3,3,5,5,4,4,4,2,3,3,4,3,4,4,2,2,2,4,5,3,4,5,https://www.dogtime.com/assets/uploads/2019/09/gollie-mixed-dog-breed-pictures-1-1.jpg
+Greyador,Muito Grande,Cães de raças misturadas,60.96,29.25,12,2,5,1,1,3,5,5,5,5,5,4,5,4,5,4,3,5,5,4,4,4,4,4,4,4,https://www.dogtime.com/assets/uploads/2020/02/greyador-mixed-dog-breed-pictures-COVER.jpg
+Whoodle,Grande,Cães de raças misturadas,40.64,14.62,14,1,3,1,4,2,4,4,3,4,2,1,3,4,2,3,2,4,1,2,1,3,4,4,4,4,https://www.dogtime.com/assets/uploads/2019/07/whoodle-mixed-dog-breed-pictures-cover.jpg
+Horgi,Grande,Cães de raças misturadas,34.29,15.75,14,2,4,2,4,3,5,5,4,5,4,2,3,3,3,2,4,4,4,4,3,3,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/08/horgi-mixed-dog-breed-pictures-cover.jpg
+Huskita,Muito Grande,Cães de raças misturadas,59.69,28.12,12,1,4,1,5,3,5,2,2,3,4,3,1,4,3,4,2,3,3,4,5,5,4,4,5,5,https://www.dogtime.com/assets/uploads/2019/12/huskita-mixed-dog-breed-pictures-cover.jpg
+Huskydoodle,Muito Grande,Cães de raças misturadas,46.99,22.5,12,2,3,2,4,3,4,4,4,3,3,2,3,4,4,3,3,5,3,4,2,2,5,4,5,4,https://www.dogtime.com/assets/uploads/2019/12/huskydoodle-mixed-dog-breed-pictures-cover.jpg
+Beaglier,Médio,Cães de raças misturadas,35.56,6.75,12,4,4,1,2,3,5,5,5,5,3,1,4,2,5,2,2,4,3,3,4,4,3,3,4,5,https://www.dogtime.com/assets/uploads/2019/11/beaglier-mixed-dog-breed-pictures-cover.jpg
+Bocker,Grande,Cães de raças misturadas,34.29,11.25,14,3,5,1,3,4,5,4,4,4,3,1,3,3,4,2,4,4,4,5,5,5,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/09/bocker-mixed-dog-breed-pictures-cover.jpg
+Lab Pointer,Muito Grande,Cães de raças misturadas,63.5,25.88,12,4,3,1,4,4,5,4,3,4,2,2,4,4,4,4,5,4,2,4,2,4,5,3,5,4,https://www.dogtime.com/assets/uploads/2019/09/lab-pointer-mixed-dog-breed-pictures-cover.jpg
+Labernese,Muito Grande,Cães de raças misturadas,66.04,39.38,9,4,4,1,4,2,4,5,4,3,4,3,3,2,4,4,3,4,3,3,2,4,4,2,4,5,https://www.dogtime.com/assets/uploads/2019/08/labernese-mixed-dog-breed-pictures-cover.jpg
+Labmaraner,Muito Grande,Cães de raças misturadas,57.15,36,11,4,4,1,3,3,4,5,4,3,1,2,4,4,4,4,4,4,3,3,3,4,4,3,5,5,https://www.dogtime.com/assets/uploads/2019/08/labmaraner-mixed-dog-breed-pictures-cover.jpg
+Labrabull,Muito Grande,Cães de raças misturadas,55.88,30.38,12,2,4,1,3,3,5,5,2,5,5,2,5,3,3,4,5,5,5,3,3,4,5,5,4,5,https://www.dogtime.com/assets/uploads/2019/08/Labrabull-mixed-dog-breed-pictures-cover.jpg
+Labradane,Muito Grande,Cães de raças misturadas,68.58,63,10,2,3,2,4,4,5,5,4,3,2,3,4,4,4,5,3,4,2,3,1,3,4,2,4,5,https://www.dogtime.com/assets/uploads/2019/07/labradane-mixed-dog-breed-pictures-cover.jpg
+Labrastaff,Muito Grande,Cães de raças misturadas,52.07,27,12,2,4,1,3,3,4,4,3,4,4,3,3,4,4,4,2,4,3,3,3,4,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/09/labrastaff-mixed-dog-breed-picture-cover.jpg
+Labsky,Muito Grande,Cães de raças misturadas,60.96,22.5,11,2,2,2,5,1,5,4,3,3,4,2,2,3,4,4,4,5,3,4,4,4,5,4,5,5,https://www.dogtime.com/assets/uploads/2019/07/labsky-mixed-dog-breed-pictures-cover.jpg
+BoShih,Médio,Cães de raças misturadas,34.29,6.75,14,4,3,1,2,2,4,2,3,4,2,1,5,3,3,2,2,3,1,1,2,2,3,2,3,5,https://www.dogtime.com/assets/uploads/2019/12/boshih-mixed-dog-breed-pictures-cover.jpg
+Bugg,Médio,Cães de raças misturadas,40.64,7.88,12,4,3,2,2,3,4,3,2,3,2,2,4,4,4,2,3,4,4,3,4,2,4,3,2,4,https://www.dogtime.com/assets/uploads/2019/12/bugg-mixed-dog-breed-pictures-cover.jpg
+Cavachon,Grande,Cães de raças misturadas,31.75,11.25,12,5,5,1,3,3,5,5,5,5,2,1,2,4,4,2,4,4,3,4,3,2,4,3,4,5,https://www.dogtime.com/assets/uploads/2019/08/cavachon-mixed-dog-breed-pictures-cover.jpg
+Mastador,Muito Grande,Cães de raças misturadas,81.28,55.12,11,2,4,3,4,2,5,5,3,3,4,4,4,4,4,4,4,4,4,2,2,2,4,4,4,4,https://www.dogtime.com/assets/uploads/2019/09/mastador-mixed-dog-breed-picture-cover.jpg
+Morkie,Pequeno,Cães de raças misturadas,15.24,4.5,12,2,3,2,2,3,4,3,2,3,1,1,3,4,4,1,3,4,5,3,5,2,4,3,4,5,https://www.dogtime.com/assets/uploads/2019/07/morkie-mixed-dog-breed-pictures-cover.jpg
+Chi-Poo,Médio,Cães de raças misturadas,25.4,5.62,14,5,5,4,2,3,5,5,3,3,2,1,3,2,3,2,5,5,3,3,3,3,3,2,2,4,https://www.dogtime.com/assets/uploads/2019/08/chi-poo-mixed-dog-breed-pictures-cover.jpg
+Chipin,Pequeno,Cães de raças misturadas,25.4,4.5,12,4,5,1,1,2,5,4,2,2,2,1,5,3,4,1,4,3,2,3,2,3,4,3,2,5,https://www.dogtime.com/assets/uploads/2019/07/chipin-mixed-dog-breed-pictures-cover.jpg
+Chiweenie,Pequeno,Cães de raças misturadas,20.32,3.82,14,3,4,2,1,4,4,2,3,2,1,1,5,3,4,1,2,4,2,3,5,2,4,2,4,5,https://www.dogtime.com/assets/uploads/2019/07/chiweenie-mixed-dog-breed-pictures-cover.jpg
+Chorkie,Pequeno,Cães de raças misturadas,19.05,5.18,14,5,5,1,1,2,4,3,3,2,2,1,3,3,2,1,3,3,2,2,4,2,4,3,3,5,https://www.dogtime.com/assets/uploads/2020/01/chorkie-mixed-dog-breed-pictures-cover.jpg
+Chug,Médio,Cães de raças misturadas,30.48,6.75,12,3,3,3,2,3,5,4,3,3,4,2,4,4,4,1,3,3,3,2,2,2,4,3,3,4,https://www.dogtime.com/assets/uploads/2019/07/chug-mixed-dog-breed-pictures-cover.jpg
+Pitsky,Muito Grande,Cães de raças misturadas,52.07,24.75,14,1,4,1,3,3,5,5,3,5,4,2,3,4,2,3,3,3,4,3,4,4,4,4,5,5,https://www.dogtime.com/assets/uploads/2019/07/pitsky-mixed-dog-breed-pictures-cover.jpg
+Dorkie,Pequeno,Cães de raças misturadas,19.05,3.82,14,4,4,2,2,2,4,4,4,4,3,1,2,2,2,1,3,4,2,3,2,2,2,2,2,3,https://www.dogtime.com/assets/uploads/2020/01/dorkie-mixed-dog-breed-pictures-cover.jpg
+Doxiepoo,Médio,Cães de raças misturadas,39.37,7.88,12,3,4,2,3,3,5,2,1,3,3,,3,2,4,2,3,5,3,4,5,4,4,4,4,5,https://www.dogtime.com/assets/uploads/2019/08/doxiepoo-mixed-dog-breed-pictures-cover.jpg
+Frenchton,Médio,Cães de raças misturadas,31.75,9,14,5,3,2,3,3,5,5,5,5,4,3,5,4,2,2,4,4,2,2,3,3,3,3,3,5,https://www.dogtime.com/assets/uploads/2020/01/frenchton-mixed-dog-breed-pictures-cover.jpg
+Havapoo,Médio,Cães de raças misturadas,29.21,8.33,12,5,4,1,3,4,5,4,4,4,1,1,1,3,4,2,5,5,3,3,2,3,3,2,3,5,https://www.dogtime.com/assets/uploads/2020/11/havapoo-hybrid-dog-breed-pictures-cover.jpg
+Kyi-Leo,Pequeno,Cães de raças misturadas,25.4,4.95,14,4,3,4,5,2,5,5,4,3,2,1,2,3,3,2,3,3,4,1,4,2,4,3,2,4,https://www.dogtime.com/assets/uploads/2019/07/kyi-leo-mixed-dog-breed-pictures-cover.jpg
+Pyredoodle,Muito Grande,Cães de raças misturadas,59.69,41.62,11,4,3,3,4,3,5,4,4,3,2,2,3,4,3,4,3,5,3,2,3,5,4,3,4,5,https://www.dogtime.com/assets/uploads/2020/03/pyredoodle-mixed-dog-breed-pictures-cover.jpg
+Rottador,Muito Grande,Cães de raças misturadas,64.77,41.62,11,2,5,1,4,3,5,4,3,3,4,4,5,2,5,4,4,5,4,3,4,3,5,5,5,5,https://www.dogtime.com/assets/uploads/2019/11/rottador-mixed-dog-breed-pictures-cover.jpg
+Saint Berdoodle,Muito Grande,Cães de raças misturadas,57.15,49.5,10,5,3,2,4,3,5,5,5,4,3,1,4,4,3,4,4,4,3,3,3,3,3,3,3,3,https://www.dogtime.com/assets/uploads/2019/08/saint-berdoodle-mixed-dog-breed-pictures-cover.jpg
+Samusky,Muito Grande,Cães de raças misturadas,55.88,23.62,14,3,3,2,5,3,4,5,4,4,4,2,2,3,4,4,3,5,3,3,2,4,5,3,4,5,https://www.dogtime.com/assets/uploads/2019/12/samusky-mixed-dog-breed-pictures-cover.jpg
+Papipoo,Pequeno,Cães de raças misturadas,26.67,4.5,12,5,4,1,2,4,5,3,4,4,1,1,2,3,3,1,5,5,3,3,2,2,5,3,5,5,https://www.dogtime.com/assets/uploads/2020/01/papipoo-mixed-dog-breed-pictures-cover-1.jpg
+Shepsky,Muito Grande,Cães de raças misturadas,57.15,29.92,12,1,4,2,4,3,5,4,3,4,4,2,3,4,2,4,4,5,4,4,3,2,5,4,5,5,https://www.dogtime.com/assets/uploads/2019/08/shepsky-mixed-dog-breed-pictures-cover.jpg
+Pomapoo,Pequeno,Cães de raças misturadas,22.86,4.5,14,5,4,1,3,2,5,3,3,3,3,1,1,3,4,1,4,4,3,2,3,1,3,3,3,4,https://www.dogtime.com/assets/uploads/2019/08/pomapoo-mixed-dog-breed-pictures-cover.jpg
+Pomsky,Médio,Cães de raças misturadas,31.75,10.12,14,2,4,1,5,3,5,2,3,3,4,1,2,3,3,2,3,4,3,4,5,2,4,2,3,4,https://www.dogtime.com/assets/uploads/2017/10/pomsky-dog-breed-pictures-header-460x260.jpg
+Poochon,Pequeno,Cães de raças misturadas,30.48,5.18,14,5,5,1,3,4,5,5,4,4,1,1,1,3,4,2,5,4,3,3,2,2,4,3,4,5,https://www.dogtime.com/assets/uploads/2019/07/poochon-mixed-dog-breed-pictures-cover.jpg
+Shollie,Muito Grande,Cães de raças misturadas,63.5,33.75,14,2,3,2,4,4,4,4,3,2,4,2,3,3,4,4,4,4,3,3,3,4,5,4,4,4,https://www.dogtime.com/assets/uploads/2019/11/shollie-mixed-dog-breed-pictures-cover.jpg
+Pugalier,Médio,Cães de raças misturadas,30.48,6.75,14,5,5,2,2,2,5,5,5,5,4,1,4,3,5,2,4,3,3,3,3,2,3,3,3,5,https://www.dogtime.com/assets/uploads/2019/11/pugalier-mixed-dog-breed-pictures-cover.jpg
+Puginese,Médio,Cães de raças misturadas,25.4,5.62,13,3,5,4,3,1,4,3,2,2,3,1,4,3,5,2,2,2,2,,3,1,3,3,3,4,https://www.dogtime.com/assets/uploads/2020/03/puginese-mixed-dog-breed-pictures-cover.jpg
+Springador,Muito Grande,Cães de raças misturadas,53.34,31.5,12,3,4,1,4,4,4,3,3,3,1,2,4,4,4,4,5,5,2,4,3,4,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/11/springador-mixed-dog-breed-pictures-cover.jpg
+Shichon,Médio,Cães de raças misturadas,26.67,5.4,15,4,4,1,2,2,5,5,4,4,1,1,4,4,3,2,3,4,1,1,2,1,4,2,3,5,https://www.dogtime.com/assets/uploads/2020/01/shichon-mixed-dog-breed-pictures-cover.jpg
+Shih-Poo,Médio,Cães de raças misturadas,33.02,5.85,15,2,4,2,3,2,5,3,2,4,1,1,2,3,4,1,2,4,3,2,2,2,3,1,2,4,https://www.dogtime.com/assets/uploads/2019/07/shih-poo-mixed-dog-breed-pictures-cover.jpg
+Shorkie,Pequeno,Cães de raças misturadas,25.4,4.5,14,3,3,1,2,2,4,3,2,3,2,1,4,2,3,1,2,3,2,4,4,3,4,3,2,5,https://www.dogtime.com/assets/uploads/2019/08/shorkie-mixed-dog-breed-pictures-cover.jpg
+Texas Heeler,Grande,Cães de raças misturadas,48.26,16.88,14,3,3,3,4,3,4,3,3,3,4,2,3,3,5,3,3,5,4,3,2,4,5,3,5,4,https://www.dogtime.com/assets/uploads/2020/02/texas-heeler-mixed-dog-breed-pictures-cover.jpg
+Terripoo,Médio,Cães de raças misturadas,30.48,5.4,12,5,2,1,3,4,5,4,3,3,1,1,3,3,3,1,4,5,2,4,3,3,5,3,4,5,https://www.dogtime.com/assets/uploads/2020/01/terripoo-mixed-dog-breed-pictures-cover.jpg
+Westiepoo,Grande,Cães de raças misturadas,35.56,12.38,14,4,4,1,3,3,4,4,4,4,1,1,5,4,4,2,4,4,3,4,3,3,4,4,4,5,https://www.dogtime.com/assets/uploads/2019/09/westiepoo-mixed-dog-breed-pictures-cover.jpg
+Akbash,Muito Grande,Cães de Trabalho,77.47,48.38,11,2,3,4,4,2,5,4,3,2,4,2,3,4,4,4,3,4,3,1,3,1,2,2,2,3,https://www.dogtime.com/assets/uploads/2019/12/akbash-dog-breed-pictures-cover.jpg
+Akita,Muito Grande,Cães de Trabalho,66.04,45,11,2,5,1,5,2,5,1,1,2,5,5,1,4,4,4,2,3,3,4,5,4,4,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_22906_akita-460x290.jpg
+Alaskan Malamute,Muito Grande,Cães de Trabalho,60.96,39.38,14,1,4,1,5,2,4,3,2,5,5,1,1,4,3,4,4,4,3,4,5,5,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22908_alaskan-malamute-460x290.jpg
+American Bulldog,Muito Grande,Cães de Trabalho,60.96,40.5,13,1,4,1,2,2,5,4,2,2,1,4,4,3,2,4,4,3,2,4,2,3,4,4,4,4,https://www.dogtime.com/assets/uploads/2017/12/american-bulldog-breed-pictures-9-460x260.jpg
+Anatolian Shepherd Dog,Muito Grande,Cães de Trabalho,66.04,51.75,12,2,4,3,5,3,3,2,2,1,2,3,4,3,3,5,4,4,2,2,2,4,3,3,3,3,https://www.dogtime.com/assets/uploads/2011/01/file_22910_anatolian-shepherd-dog-460x290.jpg
+Boxer,Muito Grande,Cães de Trabalho,58.42,29.25,11,3,4,1,2,1,5,4,3,4,4,2,5,2,4,3,4,4,2,3,3,3,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22916_boxer-460x290.jpg
+Bernese Mountain Dog,Muito Grande,Cães de Trabalho,64.77,41.62,8,2,4,1,5,1,5,5,3,5,5,4,3,1,4,5,4,4,5,5,4,3,4,3,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_22912_bernese-mountain-dog-460x290.jpg
+Black Mouth Cur,Muito Grande,Cães de Trabalho,52.07,30.38,15,2,4,2,3,3,5,5,3,3,3,2,5,4,2,4,3,4,3,5,4,4,4,3,5,4,https://www.dogtime.com/assets/uploads/2017/11/black-mouth-cur-dog-breed-pictures-cover-460x260.jpg
+Black Russian Cães Terrier,Muito Grande,Cães de Trabalho,68.58,49.5,10,2,4,2,4,3,4,5,2,2,3,3,2,3,3,5,4,4,4,2,3,3,3,5,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_22914_black-russian-Cães Terrier-460x290.jpg
+Blue Lacy,Grande,Cães de Trabalho,53.34,16.88,14,1,4,2,4,5,4,3,2,2,3,2,5,4,2,3,5,5,4,5,5,4,5,5,5,4,https://www.dogtime.com/assets/uploads/2018/04/blue-lacy-dog-breed-pictures-header-460x260.jpg
+Boerboel,Muito Grande,Cães de Trabalho,63.5,69.75,11,1,3,2,3,4,4,4,2,2,3,4,4,4,3,5,2,4,3,3,3,4,3,4,4,4,https://www.dogtime.com/assets/uploads/2018/01/boerboel-dog-breed-pictures-cover-460x260.jpg
+Chinese Shar-Pei,Muito Grande,Cães de Trabalho,48.26,21.38,10,2,2,4,2,1,2,2,1,2,2,2,5,1,4,3,3,2,5,2,5,2,2,1,3,1,https://www.dogtime.com/assets/uploads/2011/01/file_23142_chinese-shar-pei-460x290.jpg
+Chinook,Muito Grande,Cães de Trabalho,60.96,28.12,14,1,5,1,5,4,5,5,5,4,5,1,2,4,3,4,4,5,3,2,2,2,3,3,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23232_chinook-460x290.jpg
+Braque du Bourbonnais,Muito Grande,Cães de Trabalho,52.07,20.25,14,3,3,2,2,3,5,4,4,4,2,1,4,4,1,3,4,4,3,4,3,2,5,2,5,3,https://www.dogtime.com/assets/uploads/2019/09/Braque-du-Bourbonnais-dog-breed-pictures-cover.jpg
+Bullmastiff,Muito Grande,Cães de Trabalho,64.77,51.75,9,2,4,2,4,2,5,5,4,3,1,5,5,2,5,5,3,3,3,3,4,3,2,4,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_22918_bullmastiff-460x290.jpg
+Cane Corso,Muito Grande,Cães de Trabalho,63.5,47.25,11,1,3,1,3,4,4,2,3,2,3,4,5,3,4,4,4,5,2,5,3,2,4,3,5,2,https://www.dogtime.com/assets/uploads/2014/08/file_23300_cane-corso-dog-breed-460x290.jpg
+Caucasian Shepherd Dog,Muito Grande,Cães de Trabalho,73.66,67.5,11,1,2,3,5,2,4,2,2,2,4,4,2,3,4,5,2,4,4,3,3,2,2,4,2,3,https://www.dogtime.com/assets/uploads/2018/01/caucasian-shepherd-dog-breed-pictures-cover-460x261.jpg
+Central Asian Shepherd Dog,Muito Grande,Cães de Trabalho,66.04,44.55,14,1,4,2,5,2,3,3,4,2,4,5,5,5,3,4,2,5,2,1,3,2,3,3,4,2,https://www.dogtime.com/assets/uploads/2020/06/central-asian-shepherd-dog-breed-pictures-cover.jpg
+Chow Chow,Muito Grande,Cães de Trabalho,46.99,24.75,14,2,2,5,5,2,2,1,1,1,1,3,1,2,4,4,2,1,5,2,1,2,2,2,2,1,https://www.dogtime.com/assets/uploads/2011/01/file_23144_chow-chow-460x290.jpg
+Portuguese Water Dog,Muito Grande,Cães de Trabalho,50.8,21.38,12,3,4,2,4,3,5,5,5,3,1,1,2,4,3,3,4,5,5,3,3,3,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22940_portuguese-water-dog-460x290.jpg
+Danish-Swedish Farmdog,Médio,Cães de Trabalho,34.29,7.88,12,2,3,4,4,4,5,5,5,3,5,1,4,5,3,2,5,4,2,5,4,1,4,3,5,4,https://www.dogtime.com/assets/uploads/2020/08/danish-swedish-farmdog-breed-pictures-cover.jpg
+Doberman Pinscher,Muito Grande,Cães de Trabalho,66.04,31.5,12,3,5,2,1,4,5,3,1,3,4,4,5,1,3,4,5,5,2,1,1,2,3,3,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_22920_doberman-pinscher-460x290.jpg
+Drentsche Patrijshond,Muito Grande,Cães de Trabalho,58.42,22.5,12,2,4,3,4,3,5,4,4,3,4,3,3,4,2,3,2,4,3,4,2,1,5,3,4,4,https://www.dogtime.com/assets/uploads/2019/10/Drentsche-Patrijshond-dog-breed-pictures-cover.jpg
+Fila Brasileiro,Muito Grande,Cães de Trabalho,68.58,60.75,10,1,3,3,2,3,3,3,2,1,2,3,4,3,4,5,2,4,3,5,3,3,4,4,4,2,https://www.dogtime.com/assets/uploads/2020/06/Fila-Brasileiro-dog-breed-pictures-1-1442x961.jpg
+Standard Schnauzer,Grande,Cães de Trabalho,46.99,18,14,2,4,2,4,4,4,4,3,2,1,1,2,5,1,3,3,5,3,5,2,5,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22950_standard-schnauzer-460x290.jpg
+German Pinscher,Grande,Cães de Trabalho,46.99,15.75,13,3,4,3,3,4,5,3,2,2,3,1,5,4,3,3,4,5,3,5,3,4,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22922_german-pinscher-460x290.jpg
+Giant Schnauzer,Muito Grande,Cães de Trabalho,63.5,30.38,11,1,4,2,4,2,5,3,3,2,4,1,2,4,3,4,5,4,3,4,4,4,5,2,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22924_giant-schnauzer-460x290.jpg
+Great Dane,Muito Grande,Cães de Trabalho,76.2,67.5,8,1,5,1,2,3,5,5,5,5,5,4,5,4,2,5,5,3,2,3,4,3,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22926_great-dane-460x290.jpg
+Great Pyrenees,Muito Grande,Cães de Trabalho,72.39,55.12,11,1,4,3,5,3,5,4,4,3,5,2,4,2,4,5,1,4,2,5,5,5,5,5,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23202_great-pyrenees-460x290.jpg
+Greater Swiss Mountain Dog,Muito Grande,Cães de Trabalho,64.77,50.62,8,2,4,3,5,1,5,5,5,3,3,1,5,2,4,5,3,3,3,4,4,3,5,4,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_22928_greater-swiss-mountain-dog-460x290.jpg
+Hanoverian Scenthound,Muito Grande,Cães de Trabalho,52.07,40.5,13,1,4,3,3,3,5,5,4,3,2,1,4,4,3,4,2,4,2,4,3,2,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/11/Hanoverian-Scenthound-dog-breed-pictures-cover.jpg
+Hokkaido,Muito Grande,Cães de Trabalho,50.8,24.75,12,2,2,3,5,2,4,4,3,3,4,2,1,5,3,3,3,4,3,4,3,3,3,2,3,3,https://www.dogtime.com/assets/uploads/2019/08/hokkaido-dog-breed-pictures-cover.jpg
+Hovawart,Muito Grande,Cães de Trabalho,66.04,37.12,12,2,3,2,4,3,4,4,2,2,3,1,4,4,3,4,2,4,2,2,2,2,4,4,4,4,https://www.dogtime.com/assets/uploads/2020/09/hovawart-dog-breed-pictures-cover.jpg
+Karelian Bear Dog,Muito Grande,Cães de Trabalho,54.61,21.15,12,1,4,2,5,3,4,3,1,2,3,1,4,4,2,3,2,4,4,5,4,5,4,5,4,4,https://www.dogtime.com/assets/uploads/2018/04/karelian-bear-dog-header-460x260.jpg
+Kishu Ken,Muito Grande,Cães de Trabalho,49.53,20.25,11,2,3,3,5,3,3,3,2,2,4,2,3,4,3,3,4,5,2,4,1,2,3,3,4,2,https://www.dogtime.com/assets/uploads/2020/06/kishu-ken-dog-breed-pictures-cover.jpg
+Komondor,Muito Grande,Cães de Trabalho,66.04,40.5,11,1,4,1,4,3,5,3,1,1,3,2,2,2,3,4,4,4,3,2,5,4,2,1,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_22930_komondor-460x290.jpg
+Kuvasz,Muito Grande,Cães de Trabalho,71.12,41.62,11,1,5,1,5,2,5,1,2,1,4,3,4,4,4,5,2,4,1,1,3,3,4,4,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_22932_kuvasz-460x290.jpg
+Leonberger,Muito Grande,Cães de Trabalho,71.12,65.25,11,1,4,2,5,1,5,4,3,2,5,3,4,1,4,5,2,3,4,4,3,2,4,4,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23272_leonberger-dog-breed.jpg
+Maremma Sheepdog,Muito Grande,Cães de Trabalho,38.74,37.12,12,1,4,2,4,2,4,4,4,1,5,3,2,5,5,4,1,5,2,1,2,2,4,4,4,2,https://www.dogtime.com/assets/uploads/2020/07/Maremma-Sheepdog-breed-pictures-cover.jpg
+Mastiff,Muito Grande,Cães de Trabalho,74.93,78.75,8,1,3,3,4,1,5,5,2,2,3,5,3,3,4,5,3,2,4,2,2,1,3,3,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_22934_mastiff-460x290.jpg
+Mountain Cur,Muito Grande,Cães de Trabalho,53.34,20.25,13,1,3,2,4,4,4,4,3,2,2,1,4,5,1,4,2,4,2,5,3,4,4,4,5,4,https://www.dogtime.com/assets/uploads/2020/07/mountain-cur-dog-breed-pictures-cover.jpg
+Neapolitan Mastiff,Muito Grande,Cães de Trabalho,69.85,72,9,1,4,1,1,2,5,4,2,1,3,5,3,2,5,5,3,3,2,1,1,1,3,1,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_22936_neapolitan-mastiff-460x290.jpg
+Newfoundland,Muito Grande,Cães de Trabalho,68.58,56.25,9,3,4,1,5,2,5,5,4,4,5,5,2,1,4,5,5,4,3,4,4,3,3,1,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_22938_newfoundland-460x290.jpg
+Norwegian Lundehund,Médio,Cães de Trabalho,34.29,6.52,11,1,3,2,5,3,5,5,5,5,5,1,4,3,3,3,4,5,3,2,1,5,4,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23276_norwegian-lundehund-460x290.jpg
+Dogue de Bordeaux,Muito Grande,Cães de Trabalho,63.5,45,10,1,4,2,3,2,5,5,1,1,3,5,5,2,4,4,2,3,4,4,2,1,2,2,5,3,https://www.dogtime.com/assets/uploads/2011/01/file_23252_dogue-de-bordeaux-dog-breed-460x290.jpg
+Pudelpointer,Muito Grande,Cães de Trabalho,60.96,23.62,12,3,1,2,3,3,4,3,3,3,3,2,3,4,3,4,4,4,3,4,2,4,4,3,5,3,https://www.dogtime.com/assets/uploads/2020/09/pudelpointer-dog-breed-pictures-cover.jpg
+Pyrenean Mastiff,Muito Grande,Cães de Trabalho,69.85,74.25,12,2,4,4,4,3,4,4,4,1,3,5,3,4,2,5,3,4,2,2,3,1,4,4,3,3,https://www.dogtime.com/assets/uploads/2020/08/Pyrenean-Mastiff-Dog-Breed-Pictures-cover.jpg
+Rottweiler,Muito Grande,Cães de Trabalho,62.23,48.38,10,1,4,1,2,3,5,4,2,4,4,4,5,2,5,3,4,5,3,4,4,2,4,4,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_22942_rottweiler-460x290.jpg
+Saint Bernard,Muito Grande,Cães de Trabalho,71.12,67.5,9,2,4,1,5,1,5,5,5,5,4,5,2,2,4,5,2,4,3,1,1,2,3,2,2,4,https://www.dogtime.com/assets/uploads/2011/01/file_22944_saint-bernard-460x290.jpg
+Samoyed,Muito Grande,Cães de Trabalho,54.61,24.75,13,2,4,2,5,1,5,5,5,5,5,2,1,3,4,3,3,3,3,5,3,4,5,2,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22946_Samoyed-dog-breed.jpg
+Shiloh Shepherd,Muito Grande,Cães de Trabalho,71.12,47.25,12,2,4,2,5,4,5,5,4,5,4,3,4,3,4,5,5,5,4,1,4,3,4,4,4,5,https://www.dogtime.com/assets/uploads/2020/03/shiloh-shepherd-dog-breed-pictures-cover.jpg
+Siberian Husky,Muito Grande,Cães de Trabalho,54.61,21.38,14,1,4,1,5,3,5,5,5,5,4,3,2,4,2,3,2,3,4,3,5,5,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22948_siberian-husky-460x290.jpg
+Spanish Mastiff,Muito Grande,Cães de Trabalho,77.47,81,11,1,3,3,4,3,4,4,2,2,3,2,3,4,3,5,2,4,2,1,1,2,3,2,3,4,https://www.dogtime.com/assets/uploads/2020/01/spanish-mastiff-dog-breed-pictures-cover.jpg
+Tibetan Mastiff,Muito Grande,Cães de Trabalho,63.5,52.88,12,1,5,1,5,2,5,5,5,2,2,2,4,3,4,5,1,5,5,3,2,3,4,2,2,5,https://www.dogtime.com/assets/uploads/2011/01/file_22952_tibetan-mastiff-460x290.jpg
+Yakutian Laika,Muito Grande,Cães de Trabalho,54.61,21.38,11,3,3,1,5,3,5,4,4,4,4,2,3,4,3,3,4,4,2,3,4,3,4,3,5,4,https://www.dogtime.com/assets/uploads/2020/11/Yakutian-Laika-dog-breed-pictures-cover.jpg
+American Water Spaniel,Grande,Cães Esportivos,41.91,15.75,14,2,5,1,2,4,5,5,2,3,3,1,3,3,3,3,4,3,5,2,3,5,5,2,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22954_american-water-spaniel-460x290.jpg
+Barbet,Muito Grande,Cães Esportivos,57.15,22.28,14,2,3,1,4,4,5,4,4,3,2,1,1,4,3,3,4,4,2,3,3,3,5,3,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23288_barbet-460x290.jpg
+Boykin Spaniel,Grande,Cães Esportivos,40.64,14.62,11,3,4,3,3,4,5,5,4,3,4,1,1,2,4,3,4,4,4,2,3,4,5,5,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23242_boykin-spaniel-460x290.jpg
+Bracco Italiano,Muito Grande,Cães Esportivos,60.96,32.62,12,2,4,3,3,3,5,4,5,3,3,2,5,2,3,4,3,4,2,5,2,3,4,4,5,4,https://www.dogtime.com/assets/uploads/2019/11/Bracco-Italiano-dog-breed-pictures-cover.jpg
+Brittany,Grande,Cães Esportivos,46.99,15.75,12,3,5,1,4,3,5,5,5,4,3,5,3,4,3,3,3,5,3,5,3,4,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22956_brittany-460x290.jpg
+Chesapeake Bay Retriever,Muito Grande,Cães Esportivos,59.69,30.38,11,1,3,2,4,4,5,3,1,1,5,3,5,4,4,3,3,4,3,3,3,4,5,5,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_22958_chesapeake-bay-retriever-460x290.jpg
+Kooikerhondje,Médio,Cães Esportivos,38.1,10.12,13,3,4,2,4,3,3,2,2,2,3,1,2,5,3,3,1,4,3,3,3,3,4,5,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23266_kooikerhondje-460x290.jpg
+Curly-Coated Retriever,Muito Grande,Cães Esportivos,63.5,37.12,10,3,3,3,4,4,5,5,4,3,3,2,3,2,3,3,4,5,5,5,3,4,5,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_22964_curly-coated-retriever-460x290.jpg
+Deutscher Wachtelhund,Muito Grande,Cães Esportivos,49.53,21.38,13,3,2,2,4,3,5,4,4,3,3,2,3,5,2,4,4,4,3,4,3,2,4,3,4,4,https://www.dogtime.com/assets/uploads/2019/10/Deutscher-Wachtelhund-dog-breed-pictures-cover.jpg
+Dogo Argentino,Muito Grande,Cães Esportivos,63.5,40.5,12,1,3,2,2,4,4,2,2,2,1,3,4,3,2,4,2,3,2,5,2,4,4,4,4,3,https://www.dogtime.com/assets/uploads/2017/12/dogo-argentino-breed-pictures-7-460x260.jpg
+English Setter,Muito Grande,Cães Esportivos,63.5,28.12,13,3,4,1,4,3,5,5,5,5,3,2,3,3,5,3,3,5,4,5,4,5,4,2,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22968_english-setter-460x290.jpg
+English Springer Spaniel,Muito Grande,Cães Esportivos,50.8,22.5,12,3,4,1,3,4,5,5,5,4,3,1,2,3,3,3,5,5,3,5,3,4,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22970_english-springer-spaniel-460x290.jpg
+Field Spaniel,Grande,Cães Esportivos,44.45,18.45,11,3,4,1,3,4,5,5,4,4,3,1,4,3,4,2,5,5,3,4,2,5,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22972_field-spaniel-460x290.jpg
+Finnish Spitz,Grande,Cães Esportivos,44.45,12.38,14,3,3,1,5,3,5,5,5,3,4,1,2,4,3,3,3,4,3,3,5,4,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23148_finnish-spitz-460x290.jpg
+Flat-Coated Retriever,Muito Grande,Cães Esportivos,58.42,28.12,11,2,5,1,4,4,5,5,5,5,3,2,4,4,4,3,4,5,3,3,4,4,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22974_flat-coated-retriever-460x290.jpg
+Spinone Italiano,Muito Grande,Cães Esportivos,63.5,33.08,12,4,5,2,4,3,5,5,5,5,3,4,2,3,2,4,4,4,2,4,2,2,4,2,4,4,https://www.dogtime.com/assets/uploads/2018/08/spinone-italiano-dog-breed-pictures-header-460x260.jpg
+French Spaniel,Muito Grande,Cães Esportivos,57.15,23.62,11,4,4,3,4,2,5,4,4,4,3,2,3,4,2,3,4,4,2,3,2,2,5,3,4,4,https://www.dogtime.com/assets/uploads/2019/08/french-spaniel-dog-breed-picture-cover.jpg
+German Longhaired Pointer,Muito Grande,Cães Esportivos,64.77,29.48,12,2,3,3,3,2,5,4,4,4,2,3,5,4,4,4,4,4,2,3,3,4,5,3,5,3,https://www.dogtime.com/assets/uploads/2020/05/german-longhaired-pointer-dog-breed-pictures-cover.jpg
+German Shorthaired Pointer,Muito Grande,Cães Esportivos,58.42,25.88,14,2,4,1,2,4,5,5,4,3,2,2,5,3,3,3,5,5,4,5,3,5,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22976_german-shorthaired-pointer-460x290.jpg
+German Wirehaired Pointer,Muito Grande,Cães Esportivos,60.96,29.25,13,3,4,2,3,4,5,3,3,2,2,2,4,4,3,4,4,5,4,4,3,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22978_german-wirehaired-pointer-460x290.jpg
+Welsh Springer Spaniel,Muito Grande,Cães Esportivos,45.72,20.25,12,4,5,1,4,4,5,5,4,3,3,1,4,4,4,3,5,5,3,3,5,5,5,4,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23000_welsh-springer-spaniel-460x290.jpg
+Golden Retriever,Muito Grande,Cães Esportivos,57.15,29.25,11,3,5,1,3,3,5,5,5,5,5,4,2,2,5,3,5,5,5,3,3,2,5,2,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22980_golden-retriever-460x290.jpg
+Gordon Setter,Muito Grande,Cães Esportivos,63.5,28.12,11,3,4,1,4,3,5,3,2,3,5,3,2,4,3,3,5,5,3,4,5,4,5,2,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22982_gordon-setter-460x290.jpg
+Irish Red And White Setter,Muito Grande,Cães Esportivos,60.96,27,12,3,4,1,4,3,5,4,4,4,3,1,3,2,2,3,4,4,4,3,3,4,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23254_irish-red-and-white-setter-460x290.jpg
+Irish Setter,Muito Grande,Cães Esportivos,66.04,29.25,13,3,4,2,4,3,5,5,5,5,4,2,3,2,3,4,4,5,5,5,4,5,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22984_irish-setter-460x290.jpg
+Irish Water Spaniel,Muito Grande,Cães Esportivos,57.15,24.75,11,2,4,3,4,4,5,5,4,5,1,2,3,2,3,3,5,4,3,5,4,3,5,3,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_22986_irish-water-spaniel-460x290.jpg
+Korean Jindo Dog,Muito Grande,Cães Esportivos,50.8,21.38,14,2,3,2,5,2,5,3,3,4,5,1,1,4,2,3,2,5,2,5,,5,4,4,5,4,https://www.dogtime.com/assets/uploads/2015/08/jindo-460x271.png
+Labrador Retriever,Muito Grande,Cães Esportivos,57.15,30.38,11,3,5,2,3,3,5,5,5,5,5,3,5,3,5,4,5,5,5,2,4,3,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22988_labrador-retriever-460x290.jpg
+Lagotto Romagnolo,Grande,Cães Esportivos,41.91,13.28,16,4,3,3,4,3,3,3,3,3,1,2,1,4,3,2,4,4,2,4,3,3,4,2,4,4,https://www.dogtime.com/assets/uploads/2018/07/lagotto-romagnolo-dog-breed-pictures-header-460x260.jpg
+Clumber Spaniel,Muito Grande,Cães Esportivos,46.99,31.5,12,5,4,2,5,2,5,3,4,3,5,5,1,2,5,3,4,3,5,5,1,4,3,1,2,5,https://www.dogtime.com/assets/uploads/2011/01/file_22960_clumber-spaniel-460x290.jpg
+Cocker Spaniel,Grande,Cães Esportivos,36.83,11.7,14,3,5,1,4,3,5,3,4,3,3,1,1,4,4,2,5,4,4,5,3,4,4,2,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_22962_cocker-spaniel-460x290.jpg
+Pointer,Muito Grande,Cães Esportivos,64.77,27,14,1,3,1,2,4,5,5,5,5,3,1,5,3,3,3,5,5,5,5,3,5,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22992_pointer-460x290.jpg
+English Cocker Spaniel,Grande,Cães Esportivos,40.64,13.5,13,4,5,1,4,3,5,5,5,5,3,1,3,4,5,2,4,5,3,5,4,4,5,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_22966_english-cocker-spaniel-460x290.jpg
+Portuguese Pointer,Muito Grande,Cães Esportivos,53.34,21.15,13,1,4,1,3,3,4,4,2,4,1,3,4,4,4,3,4,4,3,4,2,3,4,5,4,4,https://www.dogtime.com/assets/uploads/2020/07/portuguese-pointer-dog-breed-pictures-cover.jpg
+Nova Scotia Duck Tolling Retriever,Grande,Cães Esportivos,48.26,19.12,12,3,3,2,4,4,5,5,4,4,3,1,5,4,4,3,4,5,4,5,4,3,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22990_nova-scotia-duck-tolling-retriever-460x290.jpg
+Pequeno Munsterlander Pointer,Muito Grande,Cães Esportivos,52.07,22.5,13,2,3,4,5,3,5,5,5,4,3,1,3,5,3,3,5,5,3,5,3,4,4,5,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23256_Pequeno-munsterlander-pointer-460x290.jpg
+Stabyhoun,Muito Grande,Cães Esportivos,49.53,21.38,14,3,4,3,2,2,5,5,4,3,3,1,3,5,3,3,5,5,1,4,3,3,3,4,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23264_Stabyhoun-dog-breed.jpg
+Sussex Spaniel,Grande,Cães Esportivos,35.56,18,12,5,5,1,5,5,5,5,5,5,3,1,4,4,5,2,3,5,2,1,4,1,2,1,2,4,https://www.dogtime.com/assets/uploads/2011/01/file_22994_sussex-spaniel-460x290.jpg
+Vizsla,Muito Grande,Cães Esportivos,57.15,24.75,12,3,5,1,1,4,5,5,5,5,2,1,5,4,2,3,5,4,4,2,5,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22996_vizsla-460x290.jpg
+Weimaraner,Muito Grande,Cães Esportivos,63.5,31.5,12,2,5,1,3,4,5,4,3,3,4,4,5,3,2,4,4,5,5,5,2,5,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_22998_weimaraner-460x290.jpg
+Wirehaired Pointing Griffon,Muito Grande,Cães Esportivos,55.88,24.75,12,3,4,1,4,3,5,5,4,5,1,1,3,4,3,3,5,5,3,4,4,4,5,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23002_wirehaired-pointing-griffon-460x290.jpg
+Borador,Muito Grande,Cães Híbridos,54.61,23.62,12,3,2,2,3,3,5,4,4,4,4,3,3,3,4,4,4,5,3,3,2,3,4,3,4,5,https://www.dogtime.com/assets/uploads/2019/09/borador-mixed-dog-breed-pictures-cover.jpg
+Cockapoo,Médio,Cães Híbridos,31.75,5.62,14,5,4,3,4,4,5,4,5,4,1,1,3,2,3,2,4,4,2,3,2,3,3,3,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_23218_cockapoo-dog-breed.jpg
+Bull Arab,Muito Grande,Cães Híbridos,64.77,34.88,14,1,2,3,4,4,3,3,1,2,2,2,4,4,3,4,2,4,3,5,2,4,4,5,4,2,https://www.dogtime.com/assets/uploads/2020/10/breeds-not-recognized-kennel-clubs-3.jpg
+King Shepherd,Muito Grande,Cães Híbridos,71.12,50.62,10,2,4,2,5,4,4,4,5,4,4,4,4,3,4,5,4,5,3,2,2,3,3,3,4,4,https://www.dogtime.com/assets/uploads/2020/03/king-shepherd-dog-breed-picture-cover.jpg
+Puggle,Médio,Cães Híbridos,35.56,10.8,12,5,3,3,3,3,3,5,5,5,3,1,5,4,5,2,2,3,3,2,4,5,3,2,3,3,https://www.dogtime.com/assets/uploads/2011/01/file_23212_puggle-460x290.jpg
+Staffy Bull Bullmastiff,Muito Grande,Cães Híbridos,52.07,37.8,14,1,3,2,3,1,5,4,1,1,3,2,4,3,2,4,1,3,3,2,1,2,1,4,1,3,https://www.dogtime.com/assets/uploads/2020/07/staffy-bullmastiff-mixed-dog-breed-pictures-cover.jpg
+Goldador,Muito Grande,Cães Híbridos,58.42,31.5,12,4,3,4,5,4,5,5,5,5,3,2,4,4,3,4,4,5,2,1,1,4,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23214_goldador-460x290.jpg
+Goldendoodle,Muito Grande,Cães Híbridos,55.88,31.5,12,4,4,3,3,3,5,5,5,4,2,1,4,3,3,4,4,5,1,1,3,3,4,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23204_goldendoodle-460x290.jpg
+Labradoodle,Muito Grande,Cães Híbridos,57.15,25.88,13,4,3,4,5,4,5,4,5,5,3,1,4,4,3,4,4,4,1,2,2,3,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23220_what-is-a-labradoodle.jpg
+Northern Inuit Dog,Muito Grande,Cães Híbridos,69.85,37.12,14,1,4,1,5,3,5,4,3,5,5,1,2,4,2,4,2,4,4,4,5,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2020/07/northern-inuit-dog-hybrid-breed-pictures-cover.jpg
+Maltese Shih Tzu,Pequeno,Cães Híbridos,25.4,4.05,13,5,3,3,2,2,4,3,3,3,1,1,2,2,3,1,4,3,4,5,4,1,3,2,3,3,https://www.dogtime.com/assets/uploads/2011/01/file_23216_maltese-shih-tzu-460x290.jpg
+Maltipoo,Médio,Cães Híbridos,27.94,5.62,12,5,5,1,2,3,5,4,4,4,1,1,3,2,2,2,5,4,3,2,5,4,3,3,2,4,https://www.dogtime.com/assets/uploads/2011/01/file_23210_maltipoo-460x290.jpg
+Schnoodle,Muito Grande,Cães Híbridos,45.72,21.38,12,5,4,2,2,4,4,5,3,3,2,1,4,3,4,4,4,5,3,3,2,3,4,3,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23206_schnoodle-460x290.jpg
+Peekapoo,Médio,Cães Híbridos,27.94,5.4,12,5,4,2,3,2,5,4,4,3,2,1,2,3,4,1,3,4,4,3,4,1,3,2,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23222_peekapoo-460x290.jpg
+Yorkipoo,Pequeno,Cães Híbridos,27.94,3.82,12,5,4,3,2,3,5,4,3,2,1,1,4,3,2,1,4,4,3,3,5,2,5,3,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23208_yorkipoo-460x290.jpg
+Appenzeller Sennenhunde,Muito Grande,Cães Pastores,52.07,23.18,10,3,3,1,5,4,5,5,3,2,3,1,5,4,3,3,4,4,5,3,5,3,4,4,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23244_what-is-the-appenzeller-sennenhunde-dog.jpg
+Australian Cattle Dog,Grande,Cães Pastores,46.99,18,14,1,4,3,4,4,5,3,4,2,3,1,4,5,4,3,5,5,5,4,2,4,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23166_australian-cattle-dog-460x290.jpg
+Australian Kelpie,Grande,Cães Pastores,44.45,15.98,12,2,4,2,3,5,4,2,3,2,3,1,4,3,2,3,5,5,5,4,4,4,5,3,5,4,https://www.dogtime.com/assets/uploads/2018/04/australian-kelpie-dog-breed-pictures-header-460x260.jpg
+Australian Shepherd,Muito Grande,Cães Pastores,52.07,23.62,14,2,5,2,4,4,5,4,5,3,3,1,1,2,4,3,5,5,4,4,4,5,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23168_australian-shepherd-460x290.jpg
+Australian Stumpy Tail Cattle Dog,Grande,Cães Pastores,46.99,19.35,14,2,3,2,4,4,3,3,2,2,4,2,3,4,4,3,3,4,3,3,2,4,5,4,5,3,https://www.dogtime.com/assets/uploads/2020/05/Australian-Stumpy-Tail-Cattle-Dog-cover.jpg
+Bearded Collie,Muito Grande,Cães Pastores,53.34,22.5,13,4,4,2,4,3,5,4,5,4,4,1,2,3,4,3,5,4,3,3,3,5,4,4,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23170_bearded-collie-460x290.jpg
+Belgian Laekenois,Muito Grande,Cães Pastores,60.96,24.75,11,3,2,2,3,3,4,4,4,3,3,3,4,3,3,4,3,4,2,4,2,3,4,3,4,4,https://www.dogtime.com/assets/uploads/2020/10/Belgian-Laekenois-dog-breed-pictures-cover.jpg
+Belgian Malinois,Muito Grande,Cães Pastores,60.96,27,13,3,5,3,4,4,5,4,2,3,2,1,5,4,2,4,5,5,3,4,2,3,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23172_belgian-malinois-460x290.jpg
+Belgian Sheepdog,Muito Grande,Cães Pastores,60.96,30.38,11,3,5,3,4,3,4,5,5,4,5,1,3,3,2,4,5,5,2,5,1,4,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23174_belgian-sheepdog-460x290.jpg
+Belgian Tervuren,Muito Grande,Cães Pastores,59.69,24.75,11,3,5,1,4,3,4,3,3,3,4,1,3,3,2,4,5,5,2,2,5,4,5,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23176_belgian-tervuren-460x290.jpg
+Bergamasco Sheepdog,Muito Grande,Cães Pastores,55.88,31.5,14,4,2,3,4,3,4,5,4,4,2,1,4,5,2,3,3,5,2,2,3,3,4,2,3,4,https://www.dogtime.com/assets/uploads/2020/05/Bergamasco-Sheepdog-breed-pictures-cover.jpg
+Berger Picard,Muito Grande,Cães Pastores,58.42,27,14,4,5,3,4,3,5,5,3,2,4,1,5,5,3,4,4,4,2,3,2,2,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23290_berger-picard-460x290.jpg
+Canaan Dog,Muito Grande,Cães Pastores,54.61,20.25,14,2,4,3,3,5,4,2,3,2,4,1,5,5,2,3,5,4,3,3,3,2,4,3,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23184_canaan-dog-460x290.jpg
+Cardigan Welsh Corgi,Grande,Cães Pastores,27.94,14.18,14,4,4,3,4,3,5,4,3,3,4,1,3,4,4,2,4,5,2,4,4,3,3,3,3,4,https://www.dogtime.com/assets/uploads/2011/11/file_23294_cardigan-welsh-corgi-460x290.jpg
+Bohemian Shepherd,Muito Grande,Cães Pastores,52.07,21.38,12,3,4,2,4,3,4,4,4,3,4,1,4,4,3,3,4,5,2,2,2,3,4,3,4,5,https://www.dogtime.com/assets/uploads/2020/04/Bohemian-Shepherd-dog-breed-pictures-cover.jpg
+Border Collie,Grande,Cães Pastores,50.8,16.88,14,2,5,1,4,4,5,4,3,5,3,1,3,2,3,3,5,5,3,3,2,3,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23178_border-collie-460x290.jpg
+Bouvier des Flandres,Muito Grande,Cães Pastores,62.23,38.25,11,2,4,2,4,2,5,5,2,2,1,1,2,3,4,4,5,4,2,2,4,2,4,5,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23180_bouvier-des-flandres-460x290.jpg
+Briard,Muito Grande,Cães Pastores,62.23,38.25,11,3,4,3,4,3,4,5,5,2,1,1,1,3,3,4,4,4,2,3,4,5,4,4,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23182_briard-460x290.jpg
+Finnish Lapphund,Grande,Cães Pastores,46.99,19.35,14,4,4,2,5,2,5,5,5,4,3,1,4,4,4,3,5,5,4,4,3,4,5,5,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23258_finnish-lapphund-460x290.jpg
+Catahoula Leopard Dog,Muito Grande,Cães Pastores,58.42,31.5,12,1,2,2,3,3,5,3,1,1,3,1,5,3,3,4,2,3,3,1,3,3,4,3,5,2,https://www.dogtime.com/assets/uploads/2011/01/file_23278_catahoula-leopard-dog-460x290.jpg
+Pembroke Welsh Corgi,Grande,Cães Pastores,27.94,13.5,13,4,4,3,4,3,5,4,3,5,5,1,4,3,4,2,5,5,2,3,5,2,4,3,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23192_pembroke-welsh-corgi-460x290.jpg
+Polish Lowland Sheepdog,Muito Grande,Cães Pastores,46.99,20.25,11,2,4,3,4,4,5,4,3,3,1,1,1,4,3,3,4,4,3,3,2,3,4,3,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23194_polish-lowland-sheepdog-460x290.jpg
+Collie,Muito Grande,Cães Pastores,60.96,27,12,4,5,2,4,3,5,5,4,4,5,1,2,3,3,3,4,4,3,4,4,1,3,2,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23186_collie-460x290.jpg
+Croatian Sheepdog,Grande,Cães Pastores,46.99,16.65,13,2,3,3,4,2,4,3,2,2,5,3,2,4,3,3,3,4,4,3,4,3,4,4,4,4,https://www.dogtime.com/assets/uploads/2020/05/croatian-sheepdog-breed-pictures-cover.jpg
+Puli,Grande,Cães Pastores,41.91,13.5,12,1,4,2,4,3,5,5,5,2,1,1,1,5,3,3,2,4,3,4,4,5,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23196_puli-460x290.jpg
+Dutch Shepherd,Muito Grande,Cães Pastores,58.42,27,14,3,3,2,4,4,4,4,4,2,4,2,3,4,2,3,5,4,2,3,2,2,4,3,4,4,https://www.dogtime.com/assets/uploads/2018/01/dutch-shepherd-dog-breed-pictures-cover-460x260.jpg
+Entlebucher Mountain Dog,Muito Grande,Cães Pastores,45.72,24.75,12,2,4,3,4,2,5,5,3,2,3,1,5,3,3,3,3,4,4,4,5,3,5,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23262_entlebucher-mountain-dog-460x290.jpg
+Estrela Mountain Dog,Muito Grande,Cães Pastores,68.58,46.12,13,3,2,3,4,3,5,5,3,2,4,3,2,4,3,4,4,5,2,1,3,1,3,3,3,3,https://www.dogtime.com/assets/uploads/2019/11/estrela-mountain-dog-breed-pictures-cover.jpg
+German Shepherd Dog,Muito Grande,Cães Pastores,60.96,38.25,12,2,5,2,4,3,5,5,2,4,5,1,5,4,2,4,5,5,5,4,4,2,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23188_german-shepherd-dog-460x290.jpg
+Icelandic Sheepdog,Grande,Cães Pastores,43.18,11.25,14,1,3,2,5,3,4,4,2,2,5,1,1,3,3,3,3,4,3,4,1,4,4,5,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23274_icelandic-sheepdog-460x290.jpg
+Lancashire Heeler,Médio,Cães Pastores,27.94,6.3,12,2,3,3,3,3,4,3,3,2,3,1,4,4,4,1,3,4,2,2,2,4,4,4,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23282_lancashire-heeler-460x290.jpg
+Mudi,Médio,Cães Pastores,43.18,10.58,13,4,4,2,3,3,4,2,2,2,3,1,4,4,2,2,5,4,3,4,4,4,4,2,4,4,https://www.dogtime.com/assets/uploads/2018/04/mudi-dog-breed-pictures-header-460x260.jpg
+Norwegian Buhund,Grande,Cães Pastores,43.18,14.85,14,3,3,4,5,2,5,5,3,3,3,1,2,4,3,3,4,3,3,2,4,4,4,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23284_norwegian-buhund-460x290.jpg
+Portuguese Sheepdog,Muito Grande,Cães Pastores,48.26,21.6,12,2,4,2,4,3,4,4,4,2,2,1,4,5,4,4,3,5,3,2,4,2,4,3,4,3,https://www.dogtime.com/assets/uploads/2020/07/portuguese-sheepdog-breed-pictures-cover.jpg
+Old English Sheepdog,Muito Grande,Cães Pastores,55.88,40.5,11,4,4,2,4,2,5,4,4,4,1,4,1,4,4,4,3,4,2,3,1,2,4,3,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23190_old-english-sheepdog-460x290.jpg
+Shetland Sheepdog,Médio,Cães Pastores,36.83,9,14,3,5,2,4,3,5,5,4,5,5,1,2,4,3,2,5,5,1,3,4,2,4,2,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23198_shetland-sheepdog-460x290.jpg
+Pyrenean Shepherd,Grande,Cães Pastores,45.72,12.38,16,2,4,1,4,3,5,5,2,2,3,1,3,2,3,2,2,4,3,4,5,2,4,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23246_pyrenean-shepherd-460x290.jpg
+Swedish Lapphund,Grande,Cães Pastores,45.72,16.88,13,2,4,2,5,2,4,4,4,4,4,2,2,3,2,3,4,5,4,2,4,2,3,4,3,4,https://www.dogtime.com/assets/uploads/2020/08/swedish-lapphund-dog-breed-pictures-cover.jpg
+Swedish Vallhund,Grande,Cães Pastores,30.48,12.82,14,1,3,3,4,3,5,4,3,5,4,1,5,4,4,3,5,5,2,4,1,3,5,3,5,5,https://www.dogtime.com/assets/uploads/2014/06/file_23298_Swedish-Vallhund-dog-breed.jpg
+American Hairless Cães Terrier,Médio,Cães Terrier,35.56,5.85,14,3,3,2,1,3,4,4,3,3,1,1,5,4,4,2,3,4,3,4,3,3,4,3,3,5,https://www.dogtime.com/assets/uploads/2020/04/american-hairless-Cães Terrier-dog-breed-pictures-cover.jpg
+Airedale Cães Terrier,Muito Grande,Cães Terrier,55.88,23.62,12,2,3,2,3,3,4,4,4,3,2,1,2,3,4,3,4,5,5,5,4,4,5,3,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23050_airedale-Cães Terrier-460x290.jpg
+American Pit Bull Cães Terrier,Muito Grande,Cães Terrier,45.72,25.88,14,2,4,1,2,3,5,5,1,5,4,1,5,4,3,3,4,4,5,3,3,4,4,5,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23052_pitbull-dog-breed-pittie.jpg
+American Staffordshire Cães Terrier,Muito Grande,Cães Terrier,44.45,22.5,12,2,3,2,2,3,4,4,2,4,2,3,4,3,2,3,4,4,5,3,4,3,3,5,3,4,https://www.dogtime.com/assets/uploads/2018/01/american-staffordshire-Cães Terrier-dog-breed-pictures-cover-460x260.jpg
+Bedlington Cães Terrier,Médio,Cães Terrier,39.37,9,15,4,3,3,4,3,5,4,4,5,5,1,1,4,3,3,3,5,4,5,3,4,4,2,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23056_bedlington-Cães Terrier-460x290.jpg
+Border Cães Terrier,Médio,Cães Terrier,26.67,5.85,14,3,3,1,4,3,5,4,2,5,3,1,2,4,5,2,3,5,5,5,1,4,4,4,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23058_border-Cães Terrier-460x290.jpg
+Bull Cães Terrier,Muito Grande,Cães Terrier,54.61,24.75,12,3,5,2,1,4,5,5,4,5,3,1,5,4,5,2,5,4,4,4,1,5,4,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23060_bull-Cães Terrier-460x290.jpg
+Dandie Dinmont Cães Terrier,Médio,Cães Terrier,24.13,9.45,14,4,3,2,3,3,5,4,3,3,3,1,2,3,4,1,2,3,3,4,2,3,3,3,2,4,https://www.dogtime.com/assets/uploads/2011/01/file_23064_dandie-dinmont-Cães Terrier-460x290.jpg
+Glen of Imaal Cães Terrier,Grande,Cães Terrier,33.02,15.75,14,2,3,3,3,4,5,5,2,3,1,1,5,5,3,1,4,4,3,5,4,3,4,5,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23066_glen-of-imaal-Cães Terrier-460x290.jpg
+Lakeland Cães Terrier,Médio,Cães Terrier,34.29,7.2,14,3,3,2,4,4,5,4,3,3,2,1,2,5,3,2,2,4,1,4,4,3,5,4,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23072_lakeland-Cães Terrier-460x290.jpg
+Miniature Schnauzer,Médio,Cães Terrier,34.29,6.98,13,3,4,5,4,4,5,3,3,3,2,1,2,3,4,2,5,4,2,4,3,3,5,3,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23074_miniature-schnauzer-460x290.jpg
+Norfolk Cães Terrier,Pequeno,Cães Terrier,24.13,5.18,14,5,4,3,4,4,5,4,5,4,1,1,4,5,5,1,5,4,2,1,3,4,4,4,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23076_norfolk-Cães Terrier-460x290.jpg
+Scottish Cães Terrier,Médio,Cães Terrier,25.4,9,12,2,4,3,4,3,5,4,4,4,2,1,2,4,3,2,1,4,3,3,4,5,4,4,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23082_scottish-Cães Terrier-460x290.jpg
+Sealyham Cães Terrier,Médio,Cães Terrier,25.4,10.35,13,4,4,2,4,3,4,4,4,3,4,3,1,5,3,2,3,4,2,2,4,3,4,2,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23084_sealyham-Cães Terrier-460x290.jpg
+Skye Cães Terrier,Grande,Cães Terrier,24.13,14.62,13,4,3,2,4,4,4,4,2,5,3,1,3,5,3,2,2,4,3,4,4,4,3,4,3,4,https://www.dogtime.com/assets/uploads/2011/01/file_23086_skye-Cães Terrier-460x290.jpg
+Fox Cães Terrier,Médio,Cães Terrier,38.1,7.65,12,3,3,3,3,4,4,4,3,3,2,1,2,4,2,2,5,5,3,5,3,3,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23094_fox-Cães Terrier-460x290.jpg
+West Highland White Cães Terrier,Médio,Cães Terrier,26.67,7.88,14,4,4,2,4,3,5,4,5,3,4,1,3,3,4,2,4,4,2,4,4,3,4,4,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23092_west-highland-white-Cães Terrier-460x290.jpg
+Irish Cães Terrier,Grande,Cães Terrier,48.26,11.7,14,2,3,2,4,4,5,5,1,3,4,1,2,5,3,3,1,4,1,2,4,3,5,4,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23068_irish-Cães Terrier-460x290.jpg
+Australian Cães Terrier,Médio,Cães Terrier,26.67,6.75,15,3,2,2,3,4,4,3,2,3,1,1,5,5,3,1,3,4,1,5,5,4,5,5,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23054_australian-Cães Terrier-460x290.jpg
+Jack Russell Cães Terrier,Médio,Cães Terrier,31.75,6.75,12,2,3,3,4,3,5,4,5,4,3,1,3,4,4,2,4,5,4,5,4,4,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23080_jack-russell-Cães Terrier-460x290.jpg
+Kerry Blue Cães Terrier,Grande,Cães Terrier,45.72,16.42,14,2,3,3,4,3,4,4,2,5,1,1,2,3,3,3,4,4,4,3,4,3,4,4,5,4,https://www.dogtime.com/assets/uploads/2011/01/file_23070_kerry-blue-Cães Terrier-460x290.jpg
+Biewer Cães Terrier,Muito Pequeno,Cães Terrier,22.86,2.7,14,3,3,3,2,3,5,4,3,3,1,1,4,4,3,1,3,4,3,1,3,1,5,3,3,4,https://www.dogtime.com/assets/uploads/2019/08/biewer-Cães Terrier-dog-breed-pictures-cover.jpg
+Cairn Cães Terrier,Médio,Cães Terrier,24.13,6.08,14,4,3,1,4,4,5,5,4,4,3,1,5,4,3,1,2,5,3,4,4,3,5,4,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23062_cairn-Cães Terrier-460x290.jpg
+Cesky Cães Terrier,Médio,Cães Terrier,29.21,9.68,12,4,4,3,3,3,5,3,2,3,1,1,4,5,4,2,4,3,3,2,3,3,2,3,3,5,https://www.dogtime.com/assets/uploads/2011/01/file_23270_cesky-Cães Terrier-dog-breed-460x290.jpg
+Mountain Feist,Médio,Cães Terrier,40.64,9,14,1,4,3,4,3,5,3,3,2,3,4,5,4,1,2,3,3,4,5,4,4,4,4,4,5,https://www.dogtime.com/assets/uploads/2020/12/Mountain-Feist-dog-breed-pictures-cover.jpg
+Patterdale Cães Terrier,Médio,Cães Terrier,34.29,5.4,12,2,4,1,4,4,4,4,4,4,2,1,4,4,3,2,3,5,4,5,2,4,4,4,4,4,https://www.dogtime.com/assets/uploads/2020/07/patterdale-Cães Terrier-dog-breed-pictures-cover.jpg
+Manchester Cães Terrier,Médio,Cães Terrier,39.37,7.65,15,3,3,3,1,3,4,3,3,3,3,1,5,2,4,2,2,4,2,4,4,4,4,4,4,4,https://www.dogtime.com/assets/uploads/2011/01/file_23224_manchester-Cães Terrier-460x290.jpg
+Norwich Cães Terrier,Médio,Cães Terrier,25.4,5.4,12,3,4,2,4,4,5,5,5,5,2,1,2,4,5,1,4,4,4,3,4,4,5,4,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23078_norwich-Cães Terrier-460x290.jpg
+Rat Cães Terrier,Médio,Cães Terrier,36.83,7.88,16,3,4,3,1,4,4,5,3,4,4,1,5,4,3,1,5,4,2,4,4,4,5,4,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23226_rat-Cães Terrier-dog-breed.jpg
+Staffordshire Bull Cães Terrier,Grande,Cães Terrier,38.1,13.95,13,1,4,2,3,1,5,5,1,5,3,3,5,3,4,2,2,3,2,2,3,4,3,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23292_staffordshire-bull-Cães Terrier-460x290.jpg
+Soft Coated Wheaten Cães Terrier,Grande,Cães Terrier,45.72,15.75,14,4,4,2,2,3,5,5,5,5,2,1,3,4,3,3,4,4,2,3,3,4,4,3,4,5,https://www.dogtime.com/assets/uploads/2011/01/file_23088_soft-coated-wheaten-Cães Terrier-460x290.jpg
+Welsh Cães Terrier,Médio,Cães Terrier,36.83,9,12,3,3,2,2,2,4,5,5,4,2,1,2,5,3,2,3,5,2,5,4,4,5,5,5,5,https://www.dogtime.com/assets/uploads/2011/01/file_23090_welsh-Cães Terrier-460x290.jpg
