@@ -162,3 +162,5 @@ cython_debug/
 # custom
 .DS_Store
 .vscode
+inputs
+outputs

@@ -1,8 +1,15 @@
+# -*- coding: utf-8 -*-
 import pandas as pd
+import typer
 
-df = pd.read_csv("../datasets/stackoverflow/survey_results_public.csv")
-
-# df.to_parquet("survey_results_public.parquet")
+app = typer.Typer()
 
 
-df2 = pd.read_parquet("survey_results_public.parquet")
+@app.command()
+def convert(csv_name: str, parquet_name: str = "output.parquet"):
+    df = pd.read_csv(csv_name)
+    df.to_parquet(parquet_name)
+
+
+if __name__ == "__main__":
+    app()
